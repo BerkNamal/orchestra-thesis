@@ -14,7 +14,7 @@
 #define UDP_CLIENT_PORT	8765
 #define UDP_SERVER_PORT	5678
 
-#define SEND_INTERVAL		  (60 * CLOCK_SECOND)
+#define SEND_INTERVAL		  CLOCK_SECOND/10
 
 static struct simple_udp_connection udp_conn;
 
@@ -58,7 +58,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 		orchestra_init();
 	#endif
 
-  etimer_set(&periodic_timer, random_rand() % SEND_INTERVAL);
+  etimer_set(&periodic_timer, SEND_INTERVAL);
   while(1) {
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
 
@@ -74,9 +74,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
       LOG_INFO("Not reachable yet\n");
     }
 
-    /* Add some jitter */
-    etimer_set(&periodic_timer, SEND_INTERVAL
-      - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
+    etimer_set(&periodic_timer, SEND_INTERVAL);
   }
 
   PROCESS_END();
