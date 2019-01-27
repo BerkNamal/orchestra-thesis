@@ -10,11 +10,13 @@
 #define LOG_MODULE "App"
 #define LOG_LEVEL LOG_LEVEL_INFO
 
-#define WITH_SERVER_REPLY  1
+//#define WITH_SERVER_REPLY  1
+
 #define UDP_CLIENT_PORT	8765
 #define UDP_SERVER_PORT	5678
 
-#define SEND_INTERVAL		  CLOCK_SECOND/10
+#define SEND_INTERVAL		  CLOCK_SECOND*30
+
 
 static struct simple_udp_connection udp_conn;
 
@@ -34,10 +36,6 @@ udp_rx_callback(struct simple_udp_connection *c,
 
   LOG_INFO("Received response '%.*s' from ", datalen, (char *) data);
   LOG_INFO_6ADDR(sender_addr);
-#if LLSEC802154_CONF_ENABLED
-  LOG_INFO_(" LLSEC LV:%d", uipbuf_get_attr(UIPBUF_ATTR_LLSEC_LEVEL));
-#endif
-  LOG_INFO_("\n");
 
 }
 /*---------------------------------------------------------------------------*/
