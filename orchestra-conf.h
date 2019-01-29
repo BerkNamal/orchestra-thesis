@@ -78,7 +78,7 @@
 #ifdef ORCHESTRA_CONF_UNICAST_SENDER_BASED
 #define ORCHESTRA_UNICAST_SENDER_BASED            ORCHESTRA_CONF_UNICAST_SENDER_BASED
 #else /* ORCHESTRA_CONF_UNICAST_SENDER_BASED */
-#define ORCHESTRA_UNICAST_SENDER_BASED            1
+#define ORCHESTRA_UNICAST_SENDER_BASED            0
 #endif /* ORCHESTRA_CONF_UNICAST_SENDER_BASED */
 
 /* The hash function used to assign timeslot to a given node (based on its link-layer address) */
