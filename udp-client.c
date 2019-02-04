@@ -65,7 +65,6 @@ PROCESS_THREAD(udp_client_process, ev, data)
       LOG_INFO("Sending request %u to ", count);
       LOG_INFO_6ADDR(&dest_ipaddr);
       LOG_INFO_("\n");
-	  PROCESS_PAUSE();
       snprintf(str, sizeof(str), "hello %d", count);
       simple_udp_sendto(&udp_conn, str, strlen(str), &dest_ipaddr);
       count++;
