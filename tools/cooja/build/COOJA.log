@@ -1,0 +1,167 @@
+[17:39:21 - AWT-EventQueue-0] [Cooja.java:2857] [INFO] - External tools default settings: /external_tools_linux.config
+[17:39:21 - AWT-EventQueue-0] [Cooja.java:2887] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[17:39:33 - Thread-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[17:39:34 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server.cooja TARGET=cooja 
+[17:39:42 - Thread-0] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib1 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype608.cooja'
+[17:39:43 - Thread-0] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:39:44 - Thread-0] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179640 == 0x2bdb8 bytes)
+[17:39:44 - Thread-0] [ContikiMoteType.java:502] [INFO] - mtype608.cooja: offsetting Cooja mote address space: 0xb29f7000
+[17:39:44 - Thread-0] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb2a33020 ( 1024 == 0x400 bytes)
+[17:39:45 - Thread-0] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb2a33420 ( 179640 == 0x2bdb8 bytes)
+[17:39:46 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-client.cooja TARGET=cooja 
+[17:39:47 - Thread-0] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib2 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype137.cooja'
+[17:39:48 - Thread-0] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:39:49 - Thread-0] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179672 == 0x2bdd8 bytes)
+[17:39:49 - Thread-0] [ContikiMoteType.java:502] [INFO] - mtype137.cooja: offsetting Cooja mote address space: 0xb27df000
+[17:39:49 - Thread-0] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb281b020 ( 1024 == 0x400 bytes)
+[17:39:49 - Thread-0] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb281b420 ( 179672 == 0x2bdd8 bytes)
+[17:39:49 - Thread-0] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:39:49 - Thread-0] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:39:49 - Thread-0] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:39:49 - Thread-0] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:39:49 - Thread-0] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:39:49 - Thread-0] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:39:49 - Thread-0] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:39:50 - Thread-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[17:39:50 - Thread-0] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[17:39:51 - Thread-5] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549298391416
+[17:41:05 - Thread-5] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549298465973	Duration: 74557 ms	Simulated time 814285 ms	Ratio 10.921643842965784
+[17:42:27 - Thread-6] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549298547918
+[17:42:32 - Thread-6] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549298552013	Duration: 4095 ms	Simulated time 868084 ms	Ratio 211.9863247863248
+[17:42:45 - Thread-7] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549298565910
+[17:42:51 - Thread-7] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549298571495	Duration: 5585 ms	Simulated time 938763 ms	Ratio 168.08648164726947
+[17:42:54 - Thread-8] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549298574250
+[17:43:24 - Thread-8] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549298604095	Duration: 29845 ms	Simulated time 1307974 ms	Ratio 43.82556542134361
+[17:47:27 - Thread-9] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[17:47:28 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server.cooja TARGET=cooja 
+[17:47:42 - Thread-9] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib3 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype158.cooja'
+[17:47:43 - Thread-9] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3b020 ( 932 == 0x3a4 bytes)
+[17:47:44 - Thread-9] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3b3e0 ( 169764 == 0x29724 bytes)
+[17:47:44 - Thread-9] [ContikiMoteType.java:502] [INFO] - mtype158.cooja: offsetting Cooja mote address space: 0xb2737000
+[17:47:44 - Thread-9] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb2772020 ( 932 == 0x3a4 bytes)
+[17:47:45 - Thread-9] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb27723e0 ( 169764 == 0x29724 bytes)
+[17:47:46 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-client.cooja TARGET=cooja 
+[17:47:48 - Thread-9] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib4 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype14.cooja'
+[17:47:49 - Thread-9] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3b020 ( 932 == 0x3a4 bytes)
+[17:47:49 - Thread-9] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3b3e0 ( 169796 == 0x29744 bytes)
+[17:47:49 - Thread-9] [ContikiMoteType.java:502] [INFO] - mtype14.cooja: offsetting Cooja mote address space: 0xb2590000
+[17:47:50 - Thread-9] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb25cb020 ( 932 == 0x3a4 bytes)
+[17:47:50 - Thread-9] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb25cb3e0 ( 169796 == 0x29744 bytes)
+[17:47:50 - Thread-9] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:47:50 - Thread-9] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:47:50 - Thread-9] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:47:50 - Thread-9] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:47:50 - Thread-9] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:47:50 - Thread-9] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:47:50 - Thread-9] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:47:50 - Thread-9] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[17:47:52 - Thread-14] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549298872668
+[17:48:08 - Thread-14] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549298888413	Duration: 15745 ms	Simulated time 65982 ms	Ratio 4.190663702762782
+[17:48:55 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[17:48:56 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server.cooja TARGET=cooja 
+[17:49:07 - Thread-15] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib5 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype442.cooja'
+[17:49:09 - Thread-15] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:49:09 - Thread-15] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179640 == 0x2bdb8 bytes)
+[17:49:09 - Thread-15] [ContikiMoteType.java:502] [INFO] - mtype442.cooja: offsetting Cooja mote address space: 0xb2436000
+[17:49:09 - Thread-15] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb2472020 ( 1024 == 0x400 bytes)
+[17:49:10 - Thread-15] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb2472420 ( 179640 == 0x2bdb8 bytes)
+[17:49:11 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-client.cooja TARGET=cooja 
+[17:49:13 - Thread-15] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib6 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype786.cooja'
+[17:49:14 - Thread-15] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:49:14 - Thread-15] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179672 == 0x2bdd8 bytes)
+[17:49:14 - Thread-15] [ContikiMoteType.java:502] [INFO] - mtype786.cooja: offsetting Cooja mote address space: 0xb22e0000
+[17:49:14 - Thread-15] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb231c020 ( 1024 == 0x400 bytes)
+[17:49:15 - Thread-15] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb231c420 ( 179672 == 0x2bdd8 bytes)
+[17:49:15 - Thread-15] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:49:15 - Thread-15] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:49:15 - Thread-15] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:49:15 - Thread-15] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:49:15 - Thread-15] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:49:15 - Thread-15] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:49:15 - Thread-15] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:49:15 - Thread-15] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[17:49:16 - Thread-20] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549298956788
+[17:49:37 - Thread-20] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549298977723	Duration: 20935 ms	Simulated time 258455 ms	Ratio 12.345593503701934
+[17:51:16 - Thread-21] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[17:51:17 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=cooja 
+[17:51:17 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=cooja 
+[17:51:17 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=cooja 
+[17:51:18 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=cooja 
+[17:51:18 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=cooja 
+[17:51:18 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=cooja 
+[17:51:18 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=cooja 
+[17:51:18 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server.cooja TARGET=cooja 
+[17:51:48 - Thread-21] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib7 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype541.cooja'
+[17:51:49 - Thread-21] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:51:50 - Thread-21] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179640 == 0x2bdb8 bytes)
+[17:51:50 - Thread-21] [ContikiMoteType.java:502] [INFO] - mtype541.cooja: offsetting Cooja mote address space: 0xb218a000
+[17:51:50 - Thread-21] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb21c6020 ( 1024 == 0x400 bytes)
+[17:51:51 - Thread-21] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb21c6420 ( 179640 == 0x2bdb8 bytes)
+[17:51:52 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-client.cooja TARGET=cooja 
+[17:51:54 - Thread-21] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib8 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype496.cooja'
+[17:51:55 - Thread-21] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:51:56 - Thread-21] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179672 == 0x2bdd8 bytes)
+[17:51:56 - Thread-21] [ContikiMoteType.java:502] [INFO] - mtype496.cooja: offsetting Cooja mote address space: 0xb2034000
+[17:51:56 - Thread-21] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb2070020 ( 1024 == 0x400 bytes)
+[17:51:57 - Thread-21] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb2070420 ( 179672 == 0x2bdd8 bytes)
+[17:51:57 - Thread-21] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:51:57 - Thread-21] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:51:57 - Thread-21] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:51:57 - Thread-21] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:51:57 - Thread-21] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:51:57 - Thread-21] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:51:57 - Thread-21] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:51:57 - Thread-21] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[17:51:58 - Thread-26] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549299118891
+[17:53:10 - Thread-26] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549299190118	Duration: 71227 ms	Simulated time 654493 ms	Ratio 9.188832886405436
+[17:53:10 - Thread-27] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[17:53:11 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=cooja 
+[17:53:11 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server.cooja TARGET=cooja 
+[17:53:22 - Thread-27] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib9 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype624.cooja'
+[17:53:23 - Thread-27] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:53:23 - Thread-27] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179640 == 0x2bdb8 bytes)
+[17:53:23 - Thread-27] [ContikiMoteType.java:502] [INFO] - mtype624.cooja: offsetting Cooja mote address space: 0xb1ede000
+[17:53:24 - Thread-27] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb1f1a020 ( 1024 == 0x400 bytes)
+[17:53:24 - Thread-27] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb1f1a420 ( 179640 == 0x2bdb8 bytes)
+[17:53:27 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-client.cooja TARGET=cooja 
+[17:53:31 - Thread-27] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib10 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype286.cooja'
+[17:53:33 - Thread-27] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:53:33 - Thread-27] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179672 == 0x2bdd8 bytes)
+[17:53:33 - Thread-27] [ContikiMoteType.java:502] [INFO] - mtype286.cooja: offsetting Cooja mote address space: 0xb1d88000
+[17:53:33 - Thread-27] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb1dc4020 ( 1024 == 0x400 bytes)
+[17:53:34 - Thread-27] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb1dc4420 ( 179672 == 0x2bdd8 bytes)
+[17:53:34 - Thread-27] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:53:34 - Thread-27] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:53:34 - Thread-27] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:53:34 - Thread-27] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:53:34 - Thread-27] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:53:34 - Thread-27] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:53:34 - Thread-27] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:53:34 - Thread-27] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[17:53:34 - Thread-32] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549299214655
+[17:53:49 - Thread-32] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549299229975	Duration: 15320 ms	Simulated time 128850 ms	Ratio 8.410574412532638
+[17:55:01 - Thread-33] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[17:55:02 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server.cooja TARGET=cooja 
+[17:55:14 - Thread-33] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib11 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype710.cooja'
+[17:55:15 - Thread-33] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:55:16 - Thread-33] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179640 == 0x2bdb8 bytes)
+[17:55:16 - Thread-33] [ContikiMoteType.java:502] [INFO] - mtype710.cooja: offsetting Cooja mote address space: 0xb1c32000
+[17:55:16 - Thread-33] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb1c6e020 ( 1024 == 0x400 bytes)
+[17:55:16 - Thread-33] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb1c6e420 ( 179640 == 0x2bdb8 bytes)
+[17:55:18 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-client.cooja TARGET=cooja 
+[17:55:20 - Thread-33] [ContikiMoteType.java:406] [INFO] - Creating core communicator between Java class Lib12 and Contiki library '/home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype823.cooja'
+[17:55:21 - Thread-33] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c020 ( 1024 == 0x400 bytes)
+[17:55:21 - Thread-33] [ContikiMoteType.java:580] [INFO] - Parsed section at 0x3c420 ( 179672 == 0x2bdd8 bytes)
+[17:55:21 - Thread-33] [ContikiMoteType.java:502] [INFO] - mtype823.cooja: offsetting Cooja mote address space: 0xb1adc000
+[17:55:22 - Thread-33] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb1b18020 ( 1024 == 0x400 bytes)
+[17:55:22 - Thread-33] [ContikiMoteType.java:580] [INFO] - Parsed section at 0xb1b18420 ( 179672 == 0x2bdd8 bytes)
+[17:55:22 - Thread-33] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:55:22 - Thread-33] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:55:22 - Thread-33] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:55:22 - Thread-33] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:55:22 - Thread-33] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:55:22 - Thread-33] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:55:22 - Thread-33] [ContikiRadio.java:397] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[17:55:22 - Thread-33] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[17:55:24 - Thread-38] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1549299324250
+[17:55:37 - Thread-38] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1549299337719	Duration: 13469 ms	Simulated time 61812 ms	Ratio 4.589204840745415

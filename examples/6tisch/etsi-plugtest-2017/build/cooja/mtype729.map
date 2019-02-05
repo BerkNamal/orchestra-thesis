@@ -1,0 +1,2900 @@
+Archive member included to satisfy reference by file (symbol)
+
+build/cooja///mtype729.a(simEnvChange.o)
+                              build/cooja///mtype729.o (simDontFallAsleep)
+build/cooja///mtype729.a(cooja_mt.o)
+                              build/cooja///mtype729.o (cooja_mt_start)
+build/cooja///mtype729.a(cooja_mtarch.o)
+                              build/cooja///mtype729.a(cooja_mt.o) (cooja_mtarch_start)
+build/cooja///mtype729.a(rtimer-arch.o)
+                              build/cooja///mtype729.o (rtimer_arch_check)
+build/cooja///mtype729.a(beep.o)
+                              build/cooja///mtype729.o (beep_interface)
+build/cooja///mtype729.a(button-sensor.o)
+                              build/cooja///mtype729.o (button_interface)
+build/cooja///mtype729.a(leds-arch.o)
+                              build/cooja///mtype729.o (leds_interface)
+build/cooja///mtype729.a(moteid.o)
+                              build/cooja///mtype729.o (moteid_interface)
+build/cooja///mtype729.a(pir-sensor.o)
+                              build/cooja///mtype729.o (pir_interface)
+build/cooja///mtype729.a(rs232.o)
+                              build/cooja///mtype729.o (rs232_interface)
+build/cooja///mtype729.a(vib-sensor.o)
+                              build/cooja///mtype729.o (vib_interface)
+build/cooja///mtype729.a(clock.o)
+                              build/cooja///mtype729.o (clock_interface)
+build/cooja///mtype729.a(cooja-log.o)
+                              build/cooja///mtype729.o (simlog_interface)
+build/cooja///mtype729.a(cfs-cooja.o)
+                              build/cooja///mtype729.o (cfs_interface)
+build/cooja///mtype729.a(cooja-radio.o)
+                              build/cooja///mtype729.o (radio_interface)
+build/cooja///mtype729.a(eeprom.o)
+                              build/cooja///mtype729.o (eeprom_interface)
+build/cooja///mtype729.a(random.o)
+                              build/cooja///mtype729.a(moteid.o) (random_init)
+build/cooja///mtype729.a(sensors.o)
+                              build/cooja///mtype729.a(button-sensor.o) (sensors_changed)
+build/cooja///mtype729.a(serial-shell.o)
+                              node.o (serial_shell_init)
+build/cooja///mtype729.a(shell-commands.)
+                              build/cooja///obj/sf-plugtest.o (shell_commands_set_6top_sub_cmd)
+build/cooja///mtype729.a(shell.o)
+                              build/cooja///mtype729.a(shell-commands.) (shell_output_6addr)
+build/cooja///mtype729.a(sixp-nbr.o)
+                              build/cooja///obj/sf-plugtest.o (sixp_nbr_find)
+build/cooja///mtype729.a(sixp-pkt.o)
+                              build/cooja///obj/sf-plugtest.o (sixp_pkt_set_cell_options)
+build/cooja///mtype729.a(sixp-trans.o)
+                              build/cooja///obj/sf-plugtest.o (sixp_trans_get_cmd)
+build/cooja///mtype729.a(sixp.o)
+                              build/cooja///obj/sf-plugtest.o (sixp_output)
+build/cooja///mtype729.a(sixtop.o)
+                              node.o (sixtop_add_sf)
+build/cooja///mtype729.a(contiki-main.o)
+                              build/cooja///mtype729.o (main)
+build/cooja///mtype729.a(autostart.o)
+                              build/cooja///mtype729.a(contiki-main.o) (autostart_start)
+build/cooja///mtype729.a(ctimer.o)
+                              build/cooja///mtype729.a(contiki-main.o) (ctimer_init)
+build/cooja///mtype729.a(energest.o)
+                              build/cooja///mtype729.a(contiki-main.o) (energest_init)
+build/cooja///mtype729.a(etimer.o)
+                              build/cooja///mtype729.a(contiki-main.o) (etimer_process)
+build/cooja///mtype729.a(log.o)
+                              build/cooja///obj/sf-plugtest.o (curr_log_level_6top)
+build/cooja///mtype729.a(node-id.o)
+                              node.o (node_id)
+build/cooja///mtype729.a(process.o)
+                              build/cooja///mtype729.a(shell-commands.) (process_current)
+build/cooja///mtype729.a(rtimer.o)
+                              build/cooja///mtype729.a(contiki-main.o) (rtimer_init)
+build/cooja///mtype729.a(timer.o)
+                              build/cooja///mtype729.a(button-sensor.o) (timer_set)
+build/cooja///mtype729.a(serial-line.o)
+                              build/cooja///mtype729.a(serial-shell.o) (serial_line_event_message)
+build/cooja///mtype729.a(assert.o)
+                              build/cooja///obj/sf-plugtest.o (_xassert)
+build/cooja///mtype729.a(list.o)
+                              build/cooja///mtype729.a(shell-commands.) (list_init)
+build/cooja///mtype729.a(memb.o)
+                              build/cooja///mtype729.a(sixp-trans.o) (memb_init)
+build/cooja///mtype729.a(ringbuf.o)
+                              build/cooja///mtype729.a(serial-line.o) (ringbuf_init)
+build/cooja///mtype729.a(linkaddr.o)
+                              build/cooja///mtype729.a(shell.o) (linkaddr_node_addr)
+build/cooja///mtype729.a(nbr-table.o)
+                              build/cooja///mtype729.a(sixp-nbr.o) (nbr_table_register)
+build/cooja///mtype729.a(netstack.o)
+                              build/cooja///mtype729.a(contiki-main.o) (netstack_init)
+build/cooja///mtype729.a(packetbuf.o)
+                              build/cooja///mtype729.a(cooja-radio.o) (packetbuf_clear)
+build/cooja///mtype729.a(queuebuf.o)
+                              build/cooja///mtype729.a(contiki-main.o) (queuebuf_init)
+build/cooja///mtype729.a(frame802154.o)
+                              build/cooja///mtype729.a(shell-commands.) (frame802154_get_pan_id)
+build/cooja///mtype729.a(frame802154e-ie)
+                              build/cooja///mtype729.a(sixtop.o) (frame80215e_create_ie_header_list_termination_1)
+build/cooja///mtype729.a(tsch-adaptive-t)
+                              build/cooja///mtype729.a(shell-commands.) (tsch_adaptive_timesync_get_drift_ppm)
+build/cooja///mtype729.a(tsch-log.o)
+                              build/cooja///mtype729.a(tsch-adaptive-t) (tsch_log_prepare_add)
+build/cooja///mtype729.a(tsch-queue.o)
+                              build/cooja///obj/sf-plugtest.o (tsch_queue_get_time_source)
+build/cooja///mtype729.a(tsch-schedule.o)
+                              build/cooja///obj/sf-plugtest.o (tsch_schedule_get_slotframe_by_handle)
+build/cooja///mtype729.a(tsch-slot-opera)
+                              build/cooja///mtype729.a(shell-commands.) (last_sync_time)
+build/cooja///mtype729.a(tsch.o)
+                              build/cooja///mtype729.a(tsch-slot-opera) (tsch_hopping_sequence)
+build/cooja///mtype729.a(sicslowpan.o)
+                              build/cooja///mtype729.a(contiki-main.o) (sicslowpan_driver)
+build/cooja///mtype729.a(tcpip.o)
+                              build/cooja///mtype729.a(contiki-main.o) (tcpip_process)
+build/cooja///mtype729.a(uip-ds6-nbr.o)
+                              build/cooja///mtype729.a(tcpip.o) (uip_ds6_nbr_add)
+build/cooja///mtype729.a(uip-ds6-route.o)
+                              build/cooja///mtype729.a(tcpip.o) (uip_ds6_route_nexthop)
+build/cooja///mtype729.a(uip-ds6.o)
+                              build/cooja///mtype729.a(tcpip.o) (uip_ds6_timer_periodic)
+build/cooja///mtype729.a(uip-icmp6.o)
+                              build/cooja///mtype729.a(shell-commands.) (uip_icmp6_send)
+build/cooja///mtype729.a(uip-packetqueue)
+                              build/cooja///mtype729.a(uip-ds6-nbr.o) (uip_packetqueue_new)
+build/cooja///mtype729.a(uip-sr.o)
+                              build/cooja///mtype729.a(shell-commands.) (uip_sr_num_nodes)
+build/cooja///mtype729.a(uip6.o)
+                              build/cooja///mtype729.a(contiki-main.o) (uip_lladdr)
+build/cooja///mtype729.a(uipbuf.o)
+                              build/cooja///mtype729.a(sicslowpan.o) (uipbuf_clear)
+build/cooja///mtype729.a(uiplib.o)
+                              build/cooja///mtype729.a(shell-commands.) (uiplib_ip6addrconv)
+build/cooja///mtype729.a(rpl-dag.o)
+                              build/cooja///mtype729.a(shell-commands.) (curr_instance)
+build/cooja///mtype729.a(rpl-icmp6.o)
+                              build/cooja///mtype729.a(rpl-dag.o) (rpl_icmp6_update_nbr_table)
+build/cooja///mtype729.a(rpl-mrhof.o)
+                              build/cooja///mtype729.a(rpl-dag.o) (rpl_mrhof)
+build/cooja///mtype729.a(rpl-nbr-policy.)
+                              build/cooja///mtype729.a(nbr-table.o) (rpl_nbr_policy_find_removable)
+build/cooja///mtype729.a(rpl-neighbor.o)
+                              build/cooja///mtype729.a(shell-commands.) (rpl_neighbors)
+build/cooja///mtype729.a(rpl-timers.o)
+                              build/cooja///mtype729.a(rpl-dag.o) (rpl_timers_schedule_periodic_dis)
+build/cooja///mtype729.a(rpl.o)
+                              build/cooja///mtype729.a(rpl-icmp6.o) (rpl_multicast_addr)
+build/cooja///mtype729.a(watchdog.o)
+                              build/cooja///mtype729.a(contiki-main.o) (watchdog_init)
+build/cooja///mtype729.a(stimer.o)
+                              build/cooja///mtype729.a(uip-ds6-route.o) (stimer_set)
+build/cooja///mtype729.a(ringbufindex.o)
+                              build/cooja///mtype729.a(tsch-log.o) (ringbufindex_init)
+build/cooja///mtype729.a(link-stats.o)
+                              build/cooja///mtype729.a(rpl-neighbor.o) (link_stats_from_lladdr)
+build/cooja///mtype729.a(mac-sequence.o)
+                              build/cooja///mtype729.a(tsch.o) (mac_sequence_is_duplicate)
+build/cooja///mtype729.a(mac.o)
+                              build/cooja///mtype729.a(tsch-queue.o) (mac_call_sent_callback)
+build/cooja///mtype729.a(framer-802154.o)
+                              build/cooja///mtype729.a(tsch.o) (framer_802154)
+build/cooja///mtype729.a(tsch-packet.o)
+                              build/cooja///mtype729.a(tsch-slot-opera) (tsch_packet_create_eack)
+build/cooja///mtype729.a(tsch-rpl.o)
+                              build/cooja///mtype729.a(tsch.o) (tsch_rpl_callback_ka_sent)
+build/cooja///mtype729.a(tsch-timeslot-t)
+                              build/cooja///mtype729.a(tsch.o) (tsch_timeslot_timing_us_10000)
+build/cooja///mtype729.a(uip-nd6.o)
+                              build/cooja///mtype729.a(uip6.o) (uip_nd6_init)
+build/cooja///mtype729.a(rpl-dag-root.o)
+                              build/cooja///mtype729.a(rpl-timers.o) (rpl_dag_root_print_links)
+build/cooja///mtype729.a(rpl-ext-header.)
+                              build/cooja///mtype729.a(rpl.o) (rpl_ext_header_srh_get_next_hop)
+/usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_divdi3.o)
+                              build/cooja///mtype729.a(tsch-adaptive-t) (__divdi3)
+/usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_udivdi3.o)
+                              build/cooja///mtype729.a(tsch-slot-opera) (__udivdi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+simButtonIsActive   0x1               build/cooja///mtype729.a(button-sensor.o)
+simButtonIsDown     0x1               build/cooja///mtype729.a(button-sensor.o)
+simOutDataBuffer    0x80              build/cooja///mtype729.a(cooja-radio.o)
+uip_ds6_prefix_list
+                    0x60              build/cooja///mtype729.a(uip-ds6.o)
+linkaddr_node_addr  0x8               build/cooja///mtype729.a(linkaddr.o)
+simSerialReceivingFlag
+                    0x1               build/cooja///mtype729.a(rs232.o)
+simEEPROMData       0x400             build/cooja///mtype729.a(eeprom.o)
+tsch_current_channel
+                    0x1               build/cooja///mtype729.a(tsch-slot-opera)
+tsch_hopping_sequence
+                    0x1               build/cooja///mtype729.a(tsch.o)
+periodic_timer      0x20              build/cooja///mtype729.a(link-stats.o)
+simLoggedLength     0x4               build/cooja///mtype729.a(cooja-log.o)
+simSerialReceivingLength
+                    0x4               build/cooja///mtype729.a(rs232.o)
+simEtimerPending    0x4               build/cooja///mtype729.a(simEnvChange.o)
+uip_slen            0x2               build/cooja///mtype729.a(uip6.o)
+scheduling_functions
+                    0x4               build/cooja///mtype729.a(sixtop.o)
+uip_ds6_timer_periodic
+                    0x10              build/cooja///mtype729.a(uip-ds6.o)
+tsch_timing_us      0x18              build/cooja///mtype729.a(tsch.o)
+eb_per_time_source  0x14              build/cooja///mtype729.a(contiki-main.o)
+unicast_per_neighbor_rpl_storing
+                    0x14              build/cooja///mtype729.a(contiki-main.o)
+input_ringbuf       0x3               build/cooja///mtype729.a(tsch-slot-opera)
+simVibChanged       0x1               build/cooja///mtype729.a(vib-sensor.o)
+simRtimerPending    0x4               build/cooja///mtype729.a(rtimer-arch.o)
+uip_ds6_netif_addr_list_offset
+                    0x1               build/cooja///mtype729.a(uip-ds6.o)
+n_eb                0x4               build/cooja///mtype729.a(tsch-queue.o)
+uip_lladdr          0x8               build/cooja///mtype729.a(uip6.o)
+tsch_current_asn    0x8               build/cooja///mtype729.a(tsch.o)
+simProcessRunValue  0x4               build/cooja///mtype729.a(simEnvChange.o)
+serial_line_event_message
+                    0x1               build/cooja///mtype729.a(serial-line.o)
+uip_appdata         0x4               build/cooja///mtype729.a(uip6.o)
+referenceVar        0x4               build/cooja///mtype729.o
+simCurrentTime      0x4               build/cooja///mtype729.a(clock.o)
+simVibIsActive      0x1               build/cooja///mtype729.a(vib-sensor.o)
+unicast_per_neighbor_rpl_ns
+                    0x14              build/cooja///mtype729.a(contiki-main.o)
+uip_ds6_if          0xf8              build/cooja///mtype729.a(uip-ds6.o)
+dequeued_array      0x100             build/cooja///mtype729.a(tsch-slot-opera)
+uip_flags           0x1               build/cooja///mtype729.a(uip6.o)
+rx_count            0x4               build/cooja///mtype729.a(tsch.o)
+uip_ds6_timer_ra    0x8               build/cooja///mtype729.a(uip-ds6.o)
+default_common      0x14              build/cooja///mtype729.a(contiki-main.o)
+min_drift_seen      0x4               build/cooja///mtype729.a(tsch.o)
+simSerialReceivingData
+                    0x800             build/cooja///mtype729.a(rs232.o)
+simLoggedFlag       0x1               build/cooja///mtype729.a(cooja-log.o)
+packetbuf_attrs     0x1a              build/cooja///mtype729.a(packetbuf.o)
+uip_ds6_addr_size   0x1               build/cooja///mtype729.a(uip-ds6.o)
+uip_aligned_buf     0xa0              build/cooja///mtype729.a(uip6.o)
+simRtimerCurrentTicks
+                    0x8               build/cooja///mtype729.a(rtimer-arch.o)
+simRandomSeed       0x4               build/cooja///mtype729.a(moteid.o)
+rpl_multicast_addr  0x10              build/cooja///mtype729.a(rpl.o)
+simLoggedData       0x2000            build/cooja///mtype729.a(cooja-log.o)
+simLedsValue        0x1               build/cooja///mtype729.a(leds-arch.o)
+tsch_timing         0x60              build/cooja///mtype729.a(tsch.o)
+simEtimerNextExpirationTime
+                    0x4               build/cooja///mtype729.a(simEnvChange.o)
+dequeued_ringbuf    0x3               build/cooja///mtype729.a(tsch-slot-opera)
+sync_count          0x4               build/cooja///mtype729.a(tsch.o)
+uip_len             0x2               build/cooja///mtype729.a(uip6.o)
+simButtonChanged    0x1               build/cooja///mtype729.a(button-sensor.o)
+simRtimerNextExpirationTime
+                    0x8               build/cooja///mtype729.a(rtimer-arch.o)
+simPirIsActive      0x1               build/cooja///mtype729.a(pir-sensor.o)
+simInDataBuffer     0x80              build/cooja///mtype729.a(cooja-radio.o)
+n_broadcast         0x4               build/cooja///mtype729.a(tsch-queue.o)
+simPirChanged       0x1               build/cooja///mtype729.a(pir-sensor.o)
+last_sync_time      0x4               build/cooja///mtype729.a(tsch-slot-opera)
+simBeeped           0x1               build/cooja///mtype729.a(beep.o)
+tcpip_event         0x1               build/cooja///mtype729.a(tcpip.o)
+uip_sappdata        0x4               build/cooja///mtype729.a(uip6.o)
+tsch_join_priority  0x1               build/cooja///mtype729.a(tsch.o)
+sensors_event       0x1               build/cooja///mtype729.a(sensors.o)
+input_array         0x240             build/cooja///mtype729.a(tsch-slot-opera)
+tx_count            0x4               build/cooja///mtype729.a(tsch.o)
+max_drift_seen      0x4               build/cooja///mtype729.a(tsch.o)
+uip_udp_conns       0x100             build/cooja///mtype729.a(uip6.o)
+tsch_hopping_sequence_length
+                    0x4               build/cooja///mtype729.a(tsch.o)
+packetbuf_addrs     0x10              build/cooja///mtype729.a(packetbuf.o)
+uip_udp_conn        0x4               build/cooja///mtype729.a(uip6.o)
+simMoteIDChanged    0x1               build/cooja///mtype729.a(moteid.o)
+sensors_flags       0x4               build/cooja///mtype729.o
+curr_instance       0x164             build/cooja///mtype729.a(rpl-dag.o)
+simMoteID           0x4               build/cooja///mtype729.a(moteid.o)
+uip_conn            0x4               build/cooja///mtype729.a(uip6.o)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ .group         0x0000000000000000        0x8 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+ .text.__x86.get_pc_thunk.bx
+                0x0000000000000000        0x4 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 node.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///obj/sf-plugtest.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(simEnvChange.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(cooja_mt.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(cooja_mtarch.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rtimer-arch.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(beep.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(button-sensor.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(leds-arch.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(moteid.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(pir-sensor.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rs232.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(vib-sensor.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(clock.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(cooja-log.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(cfs-cooja.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(cooja-radio.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(eeprom.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(random.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(sensors.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(serial-shell.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(shell-commands.)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(shell.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(sixp-nbr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(sixp-pkt.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(sixp-trans.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(sixp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(sixtop.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(contiki-main.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(autostart.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(ctimer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(energest.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(etimer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(log.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(node-id.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(process.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rtimer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(timer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(serial-line.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(assert.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(list.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(memb.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(ringbuf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(linkaddr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(nbr-table.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(netstack.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(packetbuf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(queuebuf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(frame802154.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(frame802154e-ie)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch-adaptive-t)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch-log.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch-queue.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch-schedule.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch-slot-opera)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(sicslowpan.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tcpip.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uip-ds6-nbr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uip-ds6-route.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uip-ds6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uip-icmp6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uip-packetqueue)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uip-sr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uip6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uipbuf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uiplib.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl-dag.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl-icmp6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl-mrhof.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl-nbr-policy.)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl-neighbor.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl-timers.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(watchdog.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(stimer.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(ringbufindex.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(link-stats.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(mac-sequence.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(mac.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(framer-802154.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch-packet.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch-rpl.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(tsch-timeslot-t)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(uip-nd6.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl-dag-root.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 build/cooja///mtype729.a(rpl-ext-header.)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_divdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+LOAD node.o
+LOAD build/cooja///mtype729.o
+LOAD build/cooja///obj/sf-plugtest.o
+LOAD build/cooja///mtype729.a
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/libc.so
+START GROUP
+LOAD /lib/i386-linux-gnu/libc.so.6
+LOAD /usr/lib/i386-linux-gnu/libc_nonshared.a
+LOAD /lib/i386-linux-gnu/ld-linux.so.2
+END GROUP
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crtn.o
+                0x0000000000000114                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x0000000000000114       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000000114       0x24 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x0000000000000138     0x1834
+ *(.gnu.hash)
+ .gnu.hash      0x0000000000000138     0x1834 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+
+.dynsym         0x000000000000196c     0x3150
+ *(.dynsym)
+ .dynsym        0x000000000000196c     0x3150 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+
+.dynstr         0x0000000000004abc     0x3a56
+ *(.dynstr)
+ .dynstr        0x0000000000004abc     0x3a56 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+
+.gnu.version    0x0000000000008512      0x62a
+ *(.gnu.version)
+ .gnu.version   0x0000000000008512      0x62a /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000008b3c        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000008b3c       0x40
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000008b3c       0x40 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+
+.rel.dyn        0x0000000000008b7c    0x12738
+ *(.rel.init)
+ .rel.init      0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text      0x0000000000008b7c    0x11d78 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.rel.fini)
+ .rel.fini      0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ .rel.rodata    0x000000000001a8f4      0x5d8 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x000000000001aecc        0x8 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ .rel.data      0x000000000001aed4      0x3a8 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x000000000001b27c       0x28 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ .rel.fini_array
+                0x000000000001b2a4        0x8 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ .rel.init_array
+                0x000000000001b2ac        0x8 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+
+.rel.plt        0x000000000001b2b4       0x10
+ *(.rel.plt)
+ .rel.plt       0x000000000001b2b4       0x10 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.rel.iplt)
+
+.init           0x000000000001b2c4       0x23
+ *(SORT(.init))
+ .init          0x000000000001b2c4       0x1e /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+                0x000000000001b2c4                _init
+ .init          0x000000000001b2e2        0x5 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crtn.o
+
+.plt            0x000000000001b2f0       0x30
+ *(.plt)
+ .plt           0x000000000001b2f0       0x30 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x000000000001b320    0x272e4
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000000000001b320        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ .gnu.linkonce.t.__x86.get_pc_thunk.bx
+                0x000000000001b320        0x4 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+                0x000000000001b320                __x86.get_pc_thunk.bx
+ *fill*         0x000000000001b324        0xc 
+ .text          0x000000000001b330      0x11b /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+ .text          0x000000000001b44b       0x9d node.o
+ .text          0x000000000001b4e8      0x291 build/cooja///mtype729.o
+                0x000000000001b57a                platform_init_stage_one
+                0x000000000001b580                platform_init_stage_two
+                0x000000000001b58d                platform_init_stage_three
+                0x000000000001b59f                platform_main_loop
+                0x000000000001b611                Java_org_contikios_cooja_corecomm_Lib15_init
+                0x000000000001b651                Java_org_contikios_cooja_corecomm_Lib15_getMemory
+                0x000000000001b691                Java_org_contikios_cooja_corecomm_Lib15_setMemory
+                0x000000000001b708                Java_org_contikios_cooja_corecomm_Lib15_tick
+                0x000000000001b767                Java_org_contikios_cooja_corecomm_Lib15_setReferenceAddress
+ .text          0x000000000001b779     0x2aca build/cooja///obj/sf-plugtest.o
+ .text          0x000000000001e243       0x63 build/cooja///mtype729.a(simEnvChange.o)
+                0x000000000001e243                doActionsBeforeTick
+                0x000000000001e274                doActionsAfterTick
+ .text          0x000000000001e2a6       0x80 build/cooja///mtype729.a(cooja_mt.o)
+                0x000000000001e2a6                cooja_mt_start
+                0x000000000001e2d3                cooja_mt_exec
+                0x000000000001e304                cooja_mt_yield
+ .text          0x000000000001e326       0xc3 build/cooja///mtype729.a(cooja_mtarch.o)
+                0x000000000001e326                cooja_mtarch_start
+                0x000000000001e3a1                cooja_sw
+                0x000000000001e3c3                cooja_mtarch_exec
+                0x000000000001e3df                cooja_mtarch_yield
+ .text          0x000000000001e3e9       0xc3 build/cooja///mtype729.a(rtimer-arch.o)
+                0x000000000001e3e9                rtimer_arch_init
+                0x000000000001e40c                rtimer_arch_schedule
+                0x000000000001e43b                rtimer_arch_next
+                0x000000000001e44b                rtimer_arch_pending
+                0x000000000001e455                rtimer_arch_check
+                0x000000000001e49c                rtimer_arch_now
+ .text          0x000000000001e4ac       0x76 build/cooja///mtype729.a(beep.o)
+                0x000000000001e4ac                beep_alarm
+                0x000000000001e4b8                beep_beep
+                0x000000000001e4c4                beep
+                0x000000000001e4d0                beep_down
+                0x000000000001e4dc                beep_on
+                0x000000000001e4e8                beep_off
+                0x000000000001e4f4                beep_spinup
+                0x000000000001e500                beep_quick
+                0x000000000001e50c                beep_long
+ .text          0x000000000001e522      0x103 build/cooja///mtype729.a(button-sensor.o)
+ .text          0x000000000001e625       0x45 build/cooja///mtype729.a(leds-arch.o)
+                0x000000000001e625                leds_arch_init
+                0x000000000001e631                leds_arch_get
+                0x000000000001e63d                leds_arch_set
+ .text          0x000000000001e66a       0x2f build/cooja///mtype729.a(moteid.o)
+ .text          0x000000000001e699       0xb1 build/cooja///mtype729.a(pir-sensor.o)
+ .text          0x000000000001e74a      0x131 build/cooja///mtype729.a(rs232.o)
+                0x000000000001e74a                rs232_init
+                0x000000000001e74f                rs232_set_speed
+                0x000000000001e75d                rs232_set_input
+                0x000000000001e76a                rs232_send
+                0x000000000001e78c                rs232_print
+                0x000000000001e7a7                slip_arch_writeb
+ .text          0x000000000001e87b       0xb1 build/cooja///mtype729.a(vib-sensor.o)
+ .text          0x000000000001e92c       0x34 build/cooja///mtype729.a(clock.o)
+                0x000000000001e92c                clock_init
+                0x000000000001e931                clock_time
+                0x000000000001e93b                clock_seconds
+                0x000000000001e951                clock_delay
+ .text          0x000000000001e960      0x1ed build/cooja///mtype729.a(cooja-log.o)
+                0x000000000001e960                simlog_char
+                0x000000000001e9a2                simlog
+                0x000000000001ea0f                log_message
+                0x000000000001ea37                log_set_putchar_with_slip
+                0x000000000001ea44                log_putchar
+                0x000000000001eac8                log_puts
+                0x000000000001eaec                log_printf
+ .text          0x000000000001eb4d      0x2c4 build/cooja///mtype729.a(cfs-cooja.o)
+                0x000000000001eb4d                cfs_open
+                0x000000000001ebb6                cfs_close
+                0x000000000001ebc2                cfs_read
+                0x000000000001ec60                cfs_write
+                0x000000000001ed3d                cfs_seek
+                0x000000000001edc5                cfs_remove
+                0x000000000001edee                cfs_opendir
+                0x000000000001edf8                cfs_readdir
+                0x000000000001ee02                cfs_closedir
+ .text          0x000000000001ee11      0x5db build/cooja///mtype729.a(cooja-radio.o)
+                0x000000000001ee4f                radio_set_channel
+                0x000000000001ee5c                radio_set_txpower
+                0x000000000001ee73                radio_signal_strength_last
+                0x000000000001ee7d                radio_signal_strength_current
+                0x000000000001ee87                radio_LQI
+ .text          0x000000000001f3ec       0xef build/cooja///mtype729.a(eeprom.o)
+                0x000000000001f3ec                eeprom_init
+                0x000000000001f3f1                eeprom_read
+                0x000000000001f461                eeprom_write
+ .text          0x000000000001f4db       0x28 build/cooja///mtype729.a(random.o)
+                0x000000000001f4db                random_init
+                0x000000000001f4f6                random_rand
+ .text          0x000000000001f503      0x2a1 build/cooja///mtype729.a(sensors.o)
+                0x000000000001f53e                sensors_first
+                0x000000000001f548                sensors_next
+                0x000000000001f565                sensors_changed
+                0x000000000001f594                sensors_find
+ .text          0x000000000001f7a4       0xda build/cooja///mtype729.a(serial-shell.o)
+                0x000000000001f862                serial_shell_init
+ .text          0x000000000001f87e     0x2c95 build/cooja///mtype729.a(shell-commands.)
+                0x0000000000022279                shell_commands_set_6top_sub_cmd
+                0x000000000002240e                shell_commands_init
+                0x000000000002244c                shell_command_set_register
+                0x0000000000022468                shell_command_set_deregister
+                0x00000000000224ab                shell_command_lookup
+ .text          0x0000000000022513      0x406 build/cooja///mtype729.a(shell.o)
+                0x0000000000022513                shell_output_6addr
+                0x00000000000225a5                shell_output_lladdr
+                0x000000000002273f                shell_input
+                0x000000000002290c                shell_init
+ .text          0x0000000000022919      0x423 build/cooja///mtype729.a(sixp-nbr.o)
+                0x0000000000022919                sixp_nbr_find
+                0x000000000002295c                sixp_nbr_alloc
+                0x0000000000022ab6                sixp_nbr_free
+                0x0000000000022af2                sixp_nbr_get_next_seqno
+                0x0000000000022b5c                sixp_nbr_set_next_seqno
+                0x0000000000022bd4                sixp_nbr_reset_next_seqno
+                0x0000000000022c40                sixp_nbr_increment_next_seqno
+                0x0000000000022cc7                sixp_nbr_init
+ .text          0x0000000000022d3c     0x2731 build/cooja///mtype729.a(sixp-pkt.o)
+                0x0000000000022ee0                sixp_pkt_set_metadata
+                0x0000000000022ffe                sixp_pkt_get_metadata
+                0x000000000002314d                sixp_pkt_set_cell_options
+                0x0000000000023293                sixp_pkt_get_cell_options
+                0x00000000000233ed                sixp_pkt_set_num_cells
+                0x00000000000234d0                sixp_pkt_get_num_cells
+                0x000000000002360a                sixp_pkt_set_reserved
+                0x0000000000023733                sixp_pkt_get_reserved
+                0x0000000000023827                sixp_pkt_set_offset
+                0x000000000002396a                sixp_pkt_get_offset
+                0x0000000000023ab0                sixp_pkt_set_max_num_cells
+                0x0000000000023bf3                sixp_pkt_get_max_num_cells
+                0x0000000000023d39                sixp_pkt_set_cell_list
+                0x0000000000023ed2                sixp_pkt_get_cell_list
+                0x0000000000024053                sixp_pkt_set_rel_cell_list
+                0x00000000000242ae                sixp_pkt_get_rel_cell_list
+                0x00000000000244ad                sixp_pkt_set_cand_cell_list
+                0x00000000000246be                sixp_pkt_get_cand_cell_list
+                0x00000000000248bc                sixp_pkt_set_total_num_cells
+                0x00000000000249b5                sixp_pkt_get_total_num_cells
+                0x0000000000024afc                sixp_pkt_set_payload
+                0x0000000000024c2d                sixp_pkt_get_payload
+                0x0000000000024d86                sixp_pkt_parse
+                0x0000000000025276                sixp_pkt_create
+ .text          0x000000000002546d      0xaef build/cooja///mtype729.a(sixp-trans.o)
+                0x000000000002579e                sixp_trans_transit_state
+                0x0000000000025a65                sixp_trans_get_cmd
+                0x0000000000025a9a                sixp_trans_get_state
+                0x0000000000025acf                sixp_trans_get_seqno
+                0x0000000000025b39                sixp_trans_get_mode
+                0x0000000000025b9f                sixp_trans_invoke_callback
+                0x0000000000025c0a                sixp_trans_set_callback
+                0x0000000000025c58                sixp_trans_alloc
+                0x0000000000025e7d                sixp_trans_find
+                0x0000000000025ef7                sixp_trans_init
+ .text          0x0000000000025f5c     0x1063 build/cooja///mtype729.a(sixp.o)
+                0x00000000000261f0                sixp_input
+                0x00000000000269e7                sixp_output
+                0x0000000000026fad                sixp_init
+ .text          0x0000000000026fbf      0x6d9 build/cooja///mtype729.a(sixtop.o)
+                0x0000000000026fbf                strip_payload_termination_ie
+                0x0000000000026ff2                sixtop_add_sf
+                0x000000000002717b                sixtop_find_sf
+                0x00000000000271cd                sixtop_output
+                0x000000000002745d                sixtop_input
+                0x000000000002761c                sixtop_init
+                0x000000000002764f                sixtop_init_sf
+ .text          0x0000000000027698      0x319 build/cooja///mtype729.a(contiki-main.o)
+                0x0000000000027698                main
+ .text          0x00000000000279b1       0x8e build/cooja///mtype729.a(autostart.o)
+                0x00000000000279b1                autostart_start
+                0x00000000000279fc                autostart_exit
+ .text          0x0000000000027a3f      0x334 build/cooja///mtype729.a(ctimer.o)
+                0x0000000000027b56                ctimer_init
+                0x0000000000027b86                ctimer_set
+                0x0000000000027bb7                ctimer_set_with_process
+                0x0000000000027c33                ctimer_reset
+                0x0000000000027c82                ctimer_restart
+                0x0000000000027cd1                ctimer_stop
+                0x0000000000027d1c                ctimer_expired
+ .text          0x0000000000027d73       0x19 build/cooja///mtype729.a(energest.o)
+                0x0000000000027d73                energest_init
+                0x0000000000027d78                energest_flush
+                0x0000000000027d7d                energest_get_total_time
+ .text          0x0000000000027d8c      0x40b build/cooja///mtype729.a(etimer.o)
+                0x0000000000027f9f                etimer_request_poll
+                0x0000000000028023                etimer_set
+                0x0000000000028048                etimer_reset_with_new_interval
+                0x000000000002806f                etimer_reset
+                0x000000000002808d                etimer_restart
+                0x00000000000280ab                etimer_adjust
+                0x00000000000280c7                etimer_expired
+                0x00000000000280da                etimer_expiration_time
+                0x00000000000280ec                etimer_start_time
+                0x00000000000280f6                etimer_pending
+                0x0000000000028108                etimer_next_expiration_time
+                0x0000000000028122                etimer_stop
+ .text          0x0000000000028197      0x3a3 build/cooja///mtype729.a(log.o)
+                0x0000000000028197                log_6addr
+                0x00000000000281ee                log_6addr_compact_snprint
+                0x000000000002829e                log_6addr_compact
+                0x00000000000282f5                log_lladdr
+                0x000000000002835e                log_lladdr_compact
+                0x00000000000283c0                log_set_level
+                0x000000000002847c                log_get_level
+                0x00000000000284f8                log_level_to_str
+ .text          0x000000000002853a       0x24 build/cooja///mtype729.a(node-id.o)
+                0x000000000002853a                node_id_init
+ .text          0x000000000002855e      0x51a build/cooja///mtype729.a(process.o)
+                0x000000000002855e                process_alloc_event
+                0x0000000000028573                process_start
+                0x000000000002875c                process_exit
+                0x0000000000028778                process_init
+                0x000000000002891a                process_run
+                0x000000000002894d                process_nevents
+                0x0000000000028968                process_post
+                0x00000000000289fd                process_post_synch
+                0x0000000000028a35                process_poll
+                0x0000000000028a64                process_is_running
+ .text          0x0000000000028a78       0xe6 build/cooja///mtype729.a(rtimer.o)
+                0x0000000000028a78                rtimer_init
+                0x0000000000028a85                rtimer_set
+                0x0000000000028b01                rtimer_run_next
+ .text          0x0000000000028b5e       0xa3 build/cooja///mtype729.a(timer.o)
+                0x0000000000028b5e                timer_set
+                0x0000000000028b79                timer_reset
+                0x0000000000028ba2                timer_restart
+                0x0000000000028bb4                timer_expired
+                0x0000000000028bdd                timer_remaining
+ .text          0x0000000000028c01      0x1fb build/cooja///mtype729.a(serial-line.o)
+                0x0000000000028c01                serial_line_input_byte
+                0x0000000000028dc4                serial_line_init
+ .text          0x0000000000028dfc       0x22 build/cooja///mtype729.a(assert.o)
+                0x0000000000028dfc                _xassert
+ .text          0x0000000000028e1e      0x28a build/cooja///mtype729.a(list.o)
+                0x0000000000028e1e                list_init
+                0x0000000000028e2c                list_head
+                0x0000000000028e36                list_copy
+                0x0000000000028e45                list_tail
+                0x0000000000028e7b                list_add
+                0x0000000000028ec4                list_push
+                0x0000000000028ef0                list_chop
+                0x0000000000028f5a                list_pop
+                0x0000000000028f82                list_remove
+                0x0000000000028fe9                list_length
+                0x0000000000029017                list_insert
+                0x000000000002905d                list_item_next
+                0x0000000000029074                list_contains
+ .text          0x00000000000290a8      0x1c1 build/cooja///mtype729.a(memb.o)
+                0x00000000000290a8                memb_init
+                0x0000000000029106                memb_alloc
+                0x000000000002916b                memb_free
+                0x00000000000291e6                memb_inmemb
+                0x0000000000029225                memb_numfree
+ .text          0x0000000000029269      0x155 build/cooja///mtype729.a(ringbuf.o)
+                0x0000000000029269                ringbuf_init
+                0x000000000002929a                ringbuf_put
+                0x0000000000029318                ringbuf_get
+                0x0000000000029385                ringbuf_size
+                0x0000000000029397                ringbuf_elements
+ .text          0x00000000000293be       0x67 build/cooja///mtype729.a(linkaddr.o)
+                0x00000000000293be                linkaddr_copy
+                0x00000000000293e0                linkaddr_cmp
+                0x000000000002940a                linkaddr_set_node_addr
+ .text          0x0000000000029425      0x7d6 build/cooja///mtype729.a(nbr-table.o)
+                0x0000000000029894                nbr_table_register
+                0x00000000000298fe                nbr_table_is_registered
+                0x0000000000029939                nbr_table_head
+                0x0000000000029995                nbr_table_next
+                0x00000000000299fc                nbr_table_add_lladdr
+                0x0000000000029ad8                nbr_table_get_from_lladdr
+                0x0000000000029b25                nbr_table_remove
+                0x0000000000029b77                nbr_table_lock
+                0x0000000000029ba1                nbr_table_unlock
+                0x0000000000029bcb                nbr_table_get_lladdr
+ .text          0x0000000000029bfb       0xe2 build/cooja///mtype729.a(netstack.o)
+                0x0000000000029bfb                netstack_process_ip_callback
+                0x0000000000029c82                netstack_ip_packet_processor_add
+                0x0000000000029ca4                uip_ds6_ip_packet_processor_rm
+                0x0000000000029cc0                netstack_init
+ .text          0x0000000000029cdd      0x3e1 build/cooja///mtype729.a(packetbuf.o)
+                0x0000000000029cdd                packetbuf_clear
+                0x0000000000029d07                packetbuf_copyfrom
+                0x0000000000029d59                packetbuf_copyto
+                0x0000000000029df0                packetbuf_hdralloc
+                0x0000000000029e6d                packetbuf_hdrreduce
+                0x0000000000029eb5                packetbuf_set_datalen
+                0x0000000000029ece                packetbuf_dataptr
+                0x0000000000029eeb                packetbuf_hdrptr
+                0x0000000000029ef5                packetbuf_datalen
+                0x0000000000029f01                packetbuf_hdrlen
+                0x0000000000029f18                packetbuf_totlen
+                0x0000000000029f2e                packetbuf_remaininglen
+                0x0000000000029f41                packetbuf_attr_clear
+                0x0000000000029f93                packetbuf_attr_copyto
+                0x0000000000029fd1                packetbuf_attr_copyfrom
+                0x000000000002a00f                packetbuf_set_attr
+                0x000000000002a039                packetbuf_attr
+                0x000000000002a053                packetbuf_set_addr
+                0x000000000002a085                packetbuf_addr
+                0x000000000002a0a2                packetbuf_holds_broadcast
+ .text          0x000000000002a0be      0x2b7 build/cooja///mtype729.a(queuebuf.o)
+                0x000000000002a0c8                queuebuf_init
+                0x000000000002a0e8                queuebuf_numfree
+                0x000000000002a0fc                queuebuf_new_from_packetbuf
+                0x000000000002a18c                queuebuf_update_attr_from_packetbuf
+                0x000000000002a1bf                queuebuf_update_from_packetbuf
+                0x000000000002a209                queuebuf_free
+                0x000000000002a250                queuebuf_to_packetbuf
+                0x000000000002a2b6                queuebuf_dataptr
+                0x000000000002a2ed                queuebuf_datalen
+                0x000000000002a310                queuebuf_addr
+                0x000000000002a345                queuebuf_attr
+                0x000000000002a370                queuebuf_debug_print
+ .text          0x000000000002a375      0xa8d build/cooja///mtype729.a(frame802154.o)
+                0x000000000002a3a6                frame802154_get_pan_id
+                0x000000000002a3b2                frame802154_set_pan_id
+                0x000000000002a3cb                frame802154_has_panid
+                0x000000000002a578                frame802154_check_dest_panid
+                0x000000000002a5e7                frame802154_is_broadcast_addr
+                0x000000000002a634                frame802154_extract_linkaddr
+                0x000000000002a874                frame802154_hdrlen
+                0x000000000002a8c5                frame802154_create_fcf
+                0x000000000002a97c                frame802154_create
+                0x000000000002aac9                frame802154_parse_fcf
+                0x000000000002ab82                frame802154_parse
+ .text          0x000000000002ae02     0x13d5 build/cooja///mtype729.a(frame802154e-ie)
+                0x000000000002af0b                frame80215e_create_ie_header_ack_nack_time_correction
+                0x000000000002af95                frame80215e_create_ie_header_list_termination_1
+                0x000000000002afdd                frame80215e_create_ie_header_list_termination_2
+                0x000000000002b025                frame80215e_create_ie_payload_list_termination
+                0x000000000002b06d                frame80215e_create_ie_ietf
+                0x000000000002b0b6                frame80215e_create_ie_mlme
+                0x000000000002b104                frame80215e_create_ie_tsch_synchronization
+                0x000000000002b1b2                frame80215e_create_ie_tsch_slotframe_and_link
+                0x000000000002b393                frame80215e_create_ie_tsch_timeslot
+                0x000000000002b466                frame80215e_create_ie_tsch_channel_hopping_sequence
+                0x000000000002b9ee                frame802154e_parse_information_elements
+ .text          0x000000000002c1d7      0x3f8 build/cooja///mtype729.a(tsch-adaptive-t)
+                0x000000000002c1d7                tsch_adaptive_timesync_get_drift_ppm
+                0x000000000002c378                tsch_timesync_update
+                0x000000000002c562                tsch_timesync_adaptive_compensate
+ .text          0x000000000002c5cf      0x481 build/cooja///mtype729.a(tsch-log.o)
+                0x000000000002c5cf                tsch_log_process_pending
+                0x000000000002c953                tsch_log_prepare_add
+                0x000000000002c9d6                tsch_log_commit
+                0x000000000002ca00                tsch_log_init
+                0x000000000002ca2f                tsch_log_stop
+ .text          0x000000000002ca50      0xa9e build/cooja///mtype729.a(tsch-queue.o)
+                0x000000000002ca50                tsch_queue_add_nbr
+                0x000000000002cb4e                tsch_queue_get_nbr
+                0x000000000002cba8                tsch_queue_get_time_source
+                0x000000000002cbf4                tsch_queue_update_time_source
+                0x000000000002ce3c                tsch_queue_add_packet
+                0x000000000002cf9f                tsch_queue_global_packet_count
+                0x000000000002cfbc                tsch_queue_packet_count
+                0x000000000002cfff                tsch_queue_remove_packet_from_queue
+                0x000000000002d04d                tsch_queue_free_packet
+                0x000000000002d07b                tsch_queue_packet_sent
+                0x000000000002d130                tsch_queue_reset
+                0x000000000002d183                tsch_queue_free_unused_neighbors
+                0x000000000002d1fb                tsch_queue_is_empty
+                0x000000000002d232                tsch_queue_get_packet_for_nbr
+                0x000000000002d2b4                tsch_queue_get_packet_for_dest_addr
+                0x000000000002d2e6                tsch_queue_get_unicast_packet_for_any
+                0x000000000002d36d                tsch_queue_backoff_expired
+                0x000000000002d381                tsch_queue_backoff_reset
+                0x000000000002d394                tsch_queue_backoff_inc
+                0x000000000002d3fe                tsch_queue_update_all_backoff_windows
+                0x000000000002d49f                tsch_queue_init
+ .text          0x000000000002d4ee      0xe83 build/cooja///mtype729.a(tsch-schedule.o)
+                0x000000000002d4ee                tsch_schedule_add_slotframe
+                0x000000000002d61b                tsch_schedule_remove_all_slotframes
+                0x000000000002d656                tsch_schedule_remove_slotframe
+                0x000000000002d726                tsch_schedule_get_slotframe_by_handle
+                0x000000000002d77b                tsch_schedule_get_link_by_handle
+                0x000000000002d90a                tsch_schedule_add_link
+                0x000000000002dc17                tsch_schedule_remove_link
+                0x000000000002de26                tsch_schedule_remove_link_by_timeslot
+                0x000000000002de6d                tsch_schedule_get_link_by_timeslot
+                0x000000000002dece                tsch_schedule_get_next_active_link
+                0x000000000002e0e4                tsch_schedule_init
+                0x000000000002e12b                tsch_schedule_create_minimal
+                0x000000000002e182                tsch_schedule_slotframe_head
+                0x000000000002e197                tsch_schedule_slotframe_next
+                0x000000000002e1aa                tsch_schedule_print
+ .text          0x000000000002e371     0x1d78 build/cooja///mtype729.a(tsch-slot-opera)
+                0x000000000002e371                tsch_is_locked
+                0x000000000002e37b                tsch_get_lock
+                0x000000000002e48a                tsch_release_lock
+                0x000000000002e499                tsch_calculate_channel
+                0x000000000002ff72                tsch_slot_operation_start
+                0x0000000000030087                tsch_slot_operation_sync
+ .text          0x00000000000300e9     0x2296 build/cooja///mtype729.a(tsch.o)
+                0x00000000000300e9                tsch_set_coordinator
+                0x0000000000030119                tsch_set_pan_secured
+                0x0000000000030128                tsch_set_join_priority
+                0x000000000003013f                tsch_set_ka_timeout
+                0x0000000000030168                tsch_set_eb_period
+                0x00000000000305be                tsch_schedule_keepalive
+                0x000000000003064f                tsch_schedule_keepalive_immediately
+                0x0000000000030c94                tsch_disassociate
+                0x00000000000313d5                tsch_scan
+ .text          0x000000000003237f     0x2612 build/cooja///mtype729.a(sicslowpan.o)
+                0x000000000003237f                netstack_sniffer_add
+                0x000000000003238c                netstack_sniffer_remove
+                0x0000000000034982                sicslowpan_init
+                0x0000000000034987                sicslowpan_get_last_rssi
+ .text          0x0000000000034991      0x8f7 build/cooja///mtype729.a(tcpip.o)
+                0x00000000000349aa                tcpip_output
+                0x0000000000034a26                udp_attach
+                0x0000000000034a43                udp_new
+                0x0000000000034a8d                udp_broadcast_new
+                0x0000000000034bf7                tcpip_input
+                0x0000000000034e28                tcpip_ipv6_output
+                0x000000000003517d                tcpip_poll_udp
+                0x00000000000351a0                tcpip_uipcall
+ .text          0x0000000000035288      0x478 build/cooja///mtype729.a(uip-ds6-nbr.o)
+                0x0000000000035288                uip_ds6_neighbors_init
+                0x00000000000352aa                uip_ds6_nbr_add
+                0x0000000000035334                uip_ds6_nbr_rm
+                0x0000000000035378                uip_ds6_nbr_update_ll
+                0x0000000000035589                uip_ds6_nbr_get_ipaddr
+                0x000000000003559e                uip_ds6_nbr_get_ll
+                0x00000000000355ba                uip_ds6_nbr_num
+                0x00000000000355ff                uip_ds6_nbr_head
+                0x0000000000035614                uip_ds6_nbr_next
+                0x0000000000035630                uip_ds6_nbr_lookup
+                0x000000000003568b                uip_ds6_nbr_ll_lookup
+                0x00000000000356a7                uip_ds6_nbr_ipaddr_from_lladdr
+                0x00000000000356cd                uip_ds6_nbr_lladdr_from_ipaddr
+                0x00000000000356fb                uip_ds6_link_callback
+ .text          0x0000000000035700      0x376 build/cooja///mtype729.a(uip-ds6-route.o)
+                0x0000000000035749                uip_ds6_route_init
+                0x000000000003576a                uip_ds6_route_nexthop
+                0x0000000000035774                uip_ds6_route_head
+                0x000000000003577e                uip_ds6_route_next
+                0x0000000000035788                uip_ds6_route_is_nexthop
+                0x0000000000035792                uip_ds6_route_num_routes
+                0x000000000003579c                uip_ds6_route_lookup
+                0x00000000000357a6                uip_ds6_route_add
+                0x00000000000357b9                uip_ds6_route_rm
+                0x00000000000357bf                uip_ds6_route_rm_by_nexthop
+                0x00000000000357c4                uip_ds6_defrt_head
+                0x00000000000357d9                uip_ds6_defrt_add
+                0x00000000000358de                uip_ds6_defrt_rm
+                0x000000000003593d                uip_ds6_defrt_lookup
+                0x00000000000359a3                uip_ds6_defrt_choose
+                0x0000000000035a0e                uip_ds6_defrt_periodic
+ .text          0x0000000000035a76      0xbe8 build/cooja///mtype729.a(uip-ds6.o)
+                0x0000000000035a76                uip_ds6_init
+                0x0000000000035c49                uip_ds6_periodic
+                0x0000000000035cc2                uip_ds6_list_loop
+                0x0000000000035d85                uip_ds6_prefix_add
+                0x0000000000035e43                uip_ds6_prefix_rm
+                0x0000000000035e55                uip_ds6_prefix_lookup
+                0x0000000000035ea6                uip_ds6_is_addr_onlink
+                0x0000000000035f1a                uip_ds6_addr_add
+                0x0000000000036048                uip_ds6_addr_rm
+                0x00000000000360e8                uip_ds6_addr_lookup
+                0x0000000000036133                uip_ds6_get_link_local
+                0x00000000000361b2                uip_ds6_get_global
+                0x0000000000036231                uip_ds6_maddr_add
+                0x00000000000362a3                uip_ds6_maddr_rm
+                0x00000000000362b5                uip_ds6_maddr_lookup
+                0x0000000000036300                uip_ds6_aaddr_add
+                0x0000000000036372                uip_ds6_aaddr_rm
+                0x0000000000036384                uip_ds6_aaddr_lookup
+                0x00000000000363cf                uip_ds6_select_src
+                0x0000000000036514                uip_ds6_set_addr_iid
+                0x000000000003654b                uip_ds6_set_lladdr_from_iid
+                0x0000000000036580                get_match_length
+                0x0000000000036612                uip_ds6_compute_reachable_time
+ .text          0x000000000003665e      0x781 build/cooja///mtype729.a(uip-icmp6.o)
+                0x00000000000366cc                uip_icmp6_input
+                0x0000000000036722                uip_icmp6_register_input_handler
+                0x0000000000036872                uip_icmp6_error_output
+                0x0000000000036ba2                uip_icmp6_send
+                0x0000000000036d72                uip_icmp6_echo_reply_callback_add
+                0x0000000000036da3                uip_icmp6_echo_reply_callback_rm
+                0x0000000000036dbf                uip_icmp6_init
+ .text          0x0000000000036ddf      0x141 build/cooja///mtype729.a(uip-packetqueue)
+                0x0000000000036e0b                uip_packetqueue_new
+                0x0000000000036e19                uip_packetqueue_alloc
+                0x0000000000036e79                uip_packetqueue_free
+                0x0000000000036eba                uip_packetqueue_buf
+                0x0000000000036ed7                uip_packetqueue_buflen
+                0x0000000000036ef8                uip_packetqueue_set_buflen
+ .text          0x0000000000036f20      0x744 build/cooja///mtype729.a(uip-sr.o)
+                0x0000000000036f20                uip_sr_num_nodes
+                0x0000000000036fb4                uip_sr_get_node
+                0x0000000000037009                uip_sr_is_addr_reachable
+                0x00000000000370b4                uip_sr_expire_parent
+                0x0000000000037101                uip_sr_update_node
+                0x00000000000372da                uip_sr_init
+                0x0000000000037305                uip_sr_node_head
+                0x000000000003731a                uip_sr_node_next
+                0x000000000003732d                uip_sr_periodic
+                0x0000000000037423                uip_sr_free_all
+                0x000000000003748b                uip_sr_link_snprint
+ .text          0x0000000000037664     0x1597 build/cooja///mtype729.a(uip6.o)
+                0x0000000000037713                uip_chksum
+                0x00000000000377ec                uip_icmp6chksum
+                0x0000000000037800                uip_udpchksum
+                0x0000000000037814                uip_init
+                0x000000000003785c                uip_remove_ext_hdr
+                0x000000000003794c                uip_udp_new
+                0x0000000000037cdf                uip_process
+                0x0000000000038ad5                uip_htons
+                0x0000000000038af7                uip_htonl
+                0x0000000000038b37                uip_send
+ .text          0x0000000000038bfb      0x4e6 build/cooja///mtype729.a(uipbuf.o)
+                0x0000000000038bfb                uipbuf_clear
+                0x0000000000038c1f                uipbuf_add_ext_hdr
+                0x0000000000038c8c                uipbuf_set_len
+                0x0000000000038cb9                uipbuf_set_len_field
+                0x0000000000038ce4                uipbuf_get_len_field
+                0x0000000000038d04                uipbuf_get_next_header
+                0x0000000000038e36                uipbuf_get_last_header
+                0x0000000000038ec9                uipbuf_search_header
+                0x0000000000038f75                uipbuf_get_attr
+                0x0000000000038f9c                uipbuf_set_attr
+                0x0000000000038fd3                uipbuf_set_default_attr
+                0x000000000003900a                uipbuf_clear_attr
+                0x000000000003902d                uipbuf_set_attr_flag
+                0x000000000003904d                uipbuf_clr_attr_flag
+                0x0000000000039071                uipbuf_is_attr_flag
+                0x0000000000039095                uipbuf_init
+ .text          0x00000000000390e1      0x502 build/cooja///mtype729.a(uiplib.o)
+                0x00000000000390e1                uiplib_ip6addrconv
+                0x00000000000392a1                uiplib_ip4addrconv
+                0x0000000000039364                uiplib_ipaddr_print
+                0x00000000000393bb                uiplib_ipaddr_snprint
+ .text          0x00000000000395e3     0x16a4 build/cooja///mtype729.a(rpl-dag.o)
+                0x00000000000395e3                rpl_dag_state_to_str
+                0x0000000000039622                rpl_dag_get_root_ipaddr
+                0x000000000003966a                rpl_dag_leave
+                0x0000000000039759                rpl_dag_poison_and_leave
+                0x0000000000039770                rpl_dag_periodic
+                0x0000000000039864                rpl_is_addr_in_our_dag
+                0x00000000000398ab                rpl_get_default_instance
+                0x00000000000398c7                rpl_get_any_dag
+                0x0000000000039920                rpl_refresh_routes
+                0x00000000000399c0                rpl_global_repair
+                0x0000000000039b16                rpl_local_repair
+                0x0000000000039b94                rpl_dag_ready_to_advertise
+                0x0000000000039bd6                rpl_dag_update_state
+                0x000000000003a79b                rpl_process_dio
+                0x000000000003a856                rpl_process_dis
+                0x000000000003a8ce                rpl_process_dao
+                0x000000000003a9a4                rpl_process_dao_ack
+                0x000000000003aa76                rpl_process_hbh
+                0x000000000003aac3                rpl_dag_init_root
+                0x000000000003ac63                rpl_dag_init
+ .text          0x000000000003ac87     0x1d0c build/cooja///mtype729.a(rpl-icmp6.o)
+                0x000000000003adaa                rpl_icmp6_update_nbr_table
+                0x000000000003af6e                rpl_icmp6_dis_output
+                0x000000000003b877                rpl_icmp6_dio_output
+                0x000000000003c2d8                rpl_icmp6_dao_output
+                0x000000000003c858                rpl_icmp6_dao_ack_output
+                0x000000000003c95b                rpl_icmp6_init
+ .text          0x000000000003c993      0x30d build/cooja///mtype729.a(rpl-mrhof.o)
+ .text          0x000000000003cca0      0x1df build/cooja///mtype729.a(rpl-nbr-policy.)
+                0x000000000003ce3d                rpl_nbr_policy_find_removable
+ .text          0x000000000003ce7f      0xb5c build/cooja///mtype729.a(rpl-neighbor.o)
+                0x000000000003cefb                rpl_neighbor_snprint
+                0x000000000003d1d6                rpl_neighbor_print_list
+                0x000000000003d3de                rpl_neighbor_count
+                0x000000000003d47c                rpl_neighbor_get_from_lladdr
+                0x000000000003d498                rpl_neighbor_is_acceptable_parent
+                0x000000000003d4c9                rpl_neighbor_get_link_metric
+                0x000000000003d4fa                rpl_neighbor_rank_via_nbr
+                0x000000000003d52b                rpl_neighbor_get_lladdr
+                0x000000000003d547                rpl_neighbor_get_ipaddr
+                0x000000000003d568                rpl_neighbor_get_link_stats
+                0x000000000003d589                rpl_neighbor_is_fresh
+                0x000000000003d5aa                rpl_neighbor_is_reachable
+                0x000000000003d5ee                rpl_neighbor_is_parent
+                0x000000000003d618                rpl_neighbor_set_preferred_parent
+                0x000000000003d747                rpl_neighbor_remove_all
+                0x000000000003d7c0                rpl_neighbor_get_from_ipaddr
+                0x000000000003d8ab                rpl_neighbor_select_best
+                0x000000000003d9be                rpl_neighbor_init
+ .text          0x000000000003d9db      0xb95 build/cooja///mtype729.a(rpl-timers.o)
+                0x000000000003d9db                rpl_timers_schedule_periodic_dis
+                0x000000000003db62                rpl_timers_dio_reset
+                0x000000000003dc93                rpl_timers_schedule_unicast_dio
+                0x000000000003de34                rpl_timers_schedule_dao
+                0x000000000003df74                rpl_timers_schedule_dao_ack
+                0x000000000003e00b                get_probing_delay
+                0x000000000003e03f                get_probing_target
+                0x000000000003e2db                rpl_schedule_probing
+                0x000000000003e313                rpl_schedule_probing_now
+                0x000000000003e386                rpl_timers_unschedule_leaving
+                0x000000000003e3b5                rpl_timers_schedule_leaving
+                0x000000000003e3fc                rpl_timers_init
+                0x000000000003e4b1                rpl_timers_stop_dag_timers
+                0x000000000003e50d                rpl_timers_unschedule_state_update
+                0x000000000003e52c                rpl_timers_schedule_state_update
+ .text          0x000000000003e570      0x696 build/cooja///mtype729.a(rpl.o)
+                0x000000000003e570                rpl_lollipop_greater_than
+                0x000000000003e5d1                rpl_get_global_address
+                0x000000000003e6d0                rpl_link_callback
+                0x000000000003e795                rpl_has_joined
+                0x000000000003e7ba                rpl_is_reachable
+                0x000000000003e846                rpl_reset_prefix
+                0x000000000003e905                rpl_set_prefix_from_addr
+                0x000000000003ea87                rpl_set_prefix
+                0x000000000003ebe3                rpl_set_leaf_only
+                0x000000000003ebfa                rpl_get_leaf_only
+ .text          0x000000000003ec06       0x2b build/cooja///mtype729.a(watchdog.o)
+                0x000000000003ec06                watchdog_init
+                0x000000000003ec0b                watchdog_start
+                0x000000000003ec10                watchdog_periodic
+                0x000000000003ec27                watchdog_stop
+                0x000000000003ec2c                watchdog_reboot
+ .text          0x000000000003ec31       0xb5 build/cooja///mtype729.a(stimer.o)
+                0x000000000003ec31                stimer_set
+                0x000000000003ec4c                stimer_reset
+                0x000000000003ec75                stimer_restart
+                0x000000000003ec87                stimer_expired
+                0x000000000003ecae                stimer_remaining
+                0x000000000003ecd2                stimer_elapsed
+ .text          0x000000000003ece6      0x1eb build/cooja///mtype729.a(ringbufindex.o)
+                0x000000000003ece6                ringbufindex_init
+                0x000000000003ed0e                ringbufindex_put
+                0x000000000003ed69                ringbufindex_peek_put
+                0x000000000003edad                ringbufindex_get
+                0x000000000003ee0d                ringbufindex_peek_get
+                0x000000000003ee48                ringbufindex_size
+                0x000000000003ee59                ringbufindex_elements
+                0x000000000003ee7f                ringbufindex_full
+                0x000000000003eeb6                ringbufindex_empty
+ .text          0x000000000003eed1      0x39d build/cooja///mtype729.a(link-stats.o)
+                0x000000000003eed1                link_stats_from_lladdr
+                0x000000000003eeed                link_stats_get_lladdr
+                0x000000000003ef09                link_stats_is_fresh
+                0x000000000003ef41                guess_etx_from_rssi
+                0x000000000003efbd                link_stats_packet_sent
+                0x000000000003f0d3                link_stats_input_callback
+                0x000000000003f1e2                link_stats_reset
+                0x000000000003f22d                link_stats_init
+ .text          0x000000000003f26e      0x168 build/cooja///mtype729.a(mac-sequence.o)
+                0x000000000003f26e                mac_sequence_is_duplicate
+                0x000000000003f30c                mac_sequence_register_seqno
+ .text          0x000000000003f3d6       0x27 build/cooja///mtype729.a(mac.o)
+                0x000000000003f3d6                mac_call_sent_callback
+ .text          0x000000000003f3fd      0x632 build/cooja///mtype729.a(framer-802154.o)
+                0x000000000003f656                framer_802154_setup_params
+ .text          0x000000000003fa2f      0xa88 build/cooja///mtype729.a(tsch-packet.o)
+                0x000000000003fa59                tsch_packet_eackbuf_attr
+                0x000000000003fa73                tsch_packet_create_eack
+                0x000000000003fcb5                tsch_packet_parse_eack
+                0x000000000003fe72                tsch_packet_create_eb
+                0x0000000000040198                tsch_packet_update_eb
+                0x00000000000401f1                tsch_packet_parse_eb
+                0x000000000004048e                tsch_packet_set_frame_pending
+                0x00000000000404a3                tsch_packet_get_frame_pending
+ .text          0x00000000000404b7      0x110 build/cooja///mtype729.a(tsch-rpl.o)
+                0x00000000000404b7                tsch_rpl_callback_ka_sent
+                0x00000000000404e9                tsch_rpl_callback_joining_network
+                0x00000000000404ee                tsch_rpl_callback_leaving_network
+                0x0000000000040509                tsch_rpl_callback_new_dio_interval
+                0x0000000000040594                tsch_rpl_callback_parent_switch
+ .text          0x00000000000405c7        0x0 build/cooja///mtype729.a(tsch-timeslot-t)
+ .text          0x00000000000405c7      0x7e6 build/cooja///mtype729.a(uip-nd6.o)
+                0x0000000000040d99                uip_nd6_init
+ .text          0x0000000000040dad      0x4c9 build/cooja///mtype729.a(rpl-dag-root.o)
+                0x0000000000040dad                rpl_dag_root_print_links
+                0x00000000000410c3                rpl_dag_root_set_prefix
+                0x00000000000410ef                rpl_dag_root_start
+                0x0000000000041247                rpl_dag_root_is_root
+ .text          0x0000000000041276     0x10e8 build/cooja///mtype729.a(rpl-ext-header.)
+                0x0000000000041276                rpl_ext_header_srh_get_next_hop
+                0x0000000000041360                rpl_ext_header_srh_update
+                0x0000000000041bf1                rpl_ext_header_hbh_update
+                0x0000000000042177                rpl_ext_header_update
+                0x00000000000421fb                rpl_ext_header_remove
+ *fill*         0x000000000004235e        0x2 
+ .text          0x0000000000042360      0x172 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_divdi3.o)
+                0x0000000000042360                __divdi3
+ *fill*         0x00000000000424d2        0xe 
+ .text          0x00000000000424e0      0x124 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_udivdi3.o)
+                0x00000000000424e0                __udivdi3
+ .text          0x0000000000042604        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000042604        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000000000042604       0x14
+ *(SORT(.fini))
+ .fini          0x0000000000042604        0xf /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+                0x0000000000042604                _fini
+ .fini          0x0000000000042613        0x5 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crtn.o
+                0x0000000000042618                PROVIDE (__etext, .)
+                0x0000000000042618                PROVIDE (_etext, .)
+                0x0000000000042618                PROVIDE (etext, .)
+
+.rodata         0x0000000000042620     0x5fa6
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000042620       0x1d node.o
+                0x000000000004262c                autostart_processes
+ *fill*         0x000000000004263d        0x3 
+ .rodata        0x0000000000042640      0x4ec build/cooja///obj/sf-plugtest.o
+                0x0000000000042b18                sf_plugtest
+ .rodata        0x0000000000042b2c        0x8 build/cooja///mtype729.a(beep.o)
+                0x0000000000042b2c                beep_interface
+ .rodata        0x0000000000042b34       0x20 build/cooja///mtype729.a(button-sensor.o)
+                0x0000000000042b34                button_interface
+                0x0000000000042b44                button_sensor
+ .rodata        0x0000000000042b54        0x8 build/cooja///mtype729.a(leds-arch.o)
+                0x0000000000042b54                leds_interface
+ .rodata        0x0000000000042b5c        0x8 build/cooja///mtype729.a(moteid.o)
+                0x0000000000042b5c                moteid_interface
+ .rodata        0x0000000000042b64       0x1c build/cooja///mtype729.a(pir-sensor.o)
+                0x0000000000042b64                pir_interface
+                0x0000000000042b70                pir_sensor
+ .rodata        0x0000000000042b80        0xe build/cooja///mtype729.a(rs232.o)
+                0x0000000000042b80                rs232_interface
+ *fill*         0x0000000000042b8e        0x2 
+ .rodata        0x0000000000042b90       0x24 build/cooja///mtype729.a(vib-sensor.o)
+                0x0000000000042b90                vib_interface
+                0x0000000000042ba4                vib_sensor
+ .rodata        0x0000000000042bb4        0x8 build/cooja///mtype729.a(clock.o)
+                0x0000000000042bb4                clock_interface
+ .rodata        0x0000000000042bbc        0x8 build/cooja///mtype729.a(cooja-log.o)
+                0x0000000000042bbc                simlog_interface
+ .rodata        0x0000000000042bc4       0x2f build/cooja///mtype729.a(cfs-cooja.o)
+                0x0000000000042bc4                cfs_interface
+ *fill*         0x0000000000042bf3        0xd 
+ .rodata        0x0000000000042c00       0x78 build/cooja///mtype729.a(cooja-radio.o)
+                0x0000000000042c00                radio_interface
+                0x0000000000042c40                cooja_radio_driver
+ .rodata        0x0000000000042c78        0x8 build/cooja///mtype729.a(eeprom.o)
+                0x0000000000042c78                eeprom_interface
+ .rodata        0x0000000000042c80        0x8 build/cooja///mtype729.a(sensors.o)
+ .rodata        0x0000000000042c88       0x18 build/cooja///mtype729.a(serial-shell.o)
+ .rodata        0x0000000000042ca0      0xa38 build/cooja///mtype729.a(shell-commands.)
+                0x0000000000043600                builtin_shell_commands
+ .rodata        0x00000000000436d8        0x8 build/cooja///mtype729.a(shell.o)
+ .rodata        0x00000000000436e0      0x1fc build/cooja///mtype729.a(sixp-nbr.o)
+ .rodata        0x00000000000438dc     0x1048 build/cooja///mtype729.a(sixp-pkt.o)
+ .rodata        0x0000000000044924      0x2fa build/cooja///mtype729.a(sixp-trans.o)
+ *fill*         0x0000000000044c1e        0x2 
+ .rodata        0x0000000000044c20      0x707 build/cooja///mtype729.a(sixp.o)
+ *fill*         0x0000000000045327        0x1 
+ .rodata        0x0000000000045328      0x22b build/cooja///mtype729.a(sixtop.o)
+ *fill*         0x0000000000045553        0x1 
+ .rodata        0x0000000000045554       0xf0 build/cooja///mtype729.a(contiki-main.o)
+ .rodata        0x0000000000045644        0xf build/cooja///mtype729.a(ctimer.o)
+ .rodata        0x0000000000045653        0xc build/cooja///mtype729.a(etimer.o)
+ *fill*         0x000000000004565f        0x1 
+ .rodata        0x0000000000045660       0xc0 build/cooja///mtype729.a(log.o)
+ .rodata        0x0000000000045720        0xe build/cooja///mtype729.a(serial-line.o)
+ *fill*         0x000000000004572e        0x2 
+ .rodata        0x0000000000045730       0x25 build/cooja///mtype729.a(assert.o)
+ *fill*         0x0000000000045755        0x1 
+ .rodata        0x0000000000045756        0x8 build/cooja///mtype729.a(linkaddr.o)
+                0x0000000000045756                linkaddr_null
+ *fill*         0x000000000004575e        0x2 
+ .rodata        0x0000000000045760      0x25e build/cooja///mtype729.a(frame802154e-ie)
+ *fill*         0x00000000000459be        0x2 
+ .rodata        0x00000000000459c0       0x50 build/cooja///mtype729.a(tsch-adaptive-t)
+ .rodata        0x0000000000045a10      0x110 build/cooja///mtype729.a(tsch-log.o)
+ .rodata        0x0000000000045b20       0x7d build/cooja///mtype729.a(tsch-queue.o)
+ *fill*         0x0000000000045b9d        0x3 
+ .rodata        0x0000000000045ba0      0x244 build/cooja///mtype729.a(tsch-schedule.o)
+ .rodata        0x0000000000045de4      0x10f build/cooja///mtype729.a(tsch-slot-opera)
+ *fill*         0x0000000000045ef3        0x1 
+ .rodata        0x0000000000045ef4      0x82c build/cooja///mtype729.a(tsch.o)
+                0x0000000000045ef4                tsch_broadcast_address
+                0x0000000000045efc                tsch_eb_address
+                0x0000000000046704                tschmac_driver
+ .rodata        0x0000000000046720      0x274 build/cooja///mtype729.a(sicslowpan.o)
+                0x0000000000046720                unc_llconf
+                0x0000000000046724                unc_ctxconf
+                0x0000000000046728                unc_mxconf
+                0x000000000004672c                llprefix
+                0x0000000000046984                sicslowpan_driver
+ .rodata        0x0000000000046994      0x185 build/cooja///mtype729.a(tcpip.o)
+ *fill*         0x0000000000046b19        0x3 
+ .rodata        0x0000000000046b1c       0xd1 build/cooja///mtype729.a(uip-ds6-nbr.o)
+ *fill*         0x0000000000046bed        0x3 
+ .rodata        0x0000000000046bf0       0xaa build/cooja///mtype729.a(uip-ds6-route.o)
+ *fill*         0x0000000000046c9a        0x2 
+ .rodata        0x0000000000046c9c       0x56 build/cooja///mtype729.a(uip-icmp6.o)
+ *fill*         0x0000000000046cf2        0x2 
+ .rodata        0x0000000000046cf4       0xa1 build/cooja///mtype729.a(uip-sr.o)
+ *fill*         0x0000000000046d95        0x3 
+ .rodata        0x0000000000046d98      0x24f build/cooja///mtype729.a(uip6.o)
+ .rodata        0x0000000000046fe7       0x2d build/cooja///mtype729.a(uiplib.o)
+ .rodata        0x0000000000047014      0x610 build/cooja///mtype729.a(rpl-dag.o)
+ .rodata        0x0000000000047624      0x587 build/cooja///mtype729.a(rpl-icmp6.o)
+ .rodata        0x0000000000047bab       0x25 build/cooja///mtype729.a(rpl-mrhof.o)
+ .rodata        0x0000000000047bd0       0x42 build/cooja///mtype729.a(rpl-nbr-policy.)
+ *fill*         0x0000000000047c12        0x2 
+ .rodata        0x0000000000047c14      0x15a build/cooja///mtype729.a(rpl-neighbor.o)
+ .rodata        0x0000000000047d6e       0x89 build/cooja///mtype729.a(rpl-timers.o)
+ *fill*         0x0000000000047df7        0x9 
+ .rodata        0x0000000000047e00      0x130 build/cooja///mtype729.a(rpl.o)
+                0x0000000000047ee0                rpl_lite_driver
+ .rodata        0x0000000000047f30       0xd0 build/cooja///mtype729.a(framer-802154.o)
+                0x0000000000047ff4                framer_802154
+ .rodata        0x0000000000048000       0xed build/cooja///mtype729.a(tsch-packet.o)
+ .rodata        0x00000000000480ed        0xd build/cooja///mtype729.a(tsch-rpl.o)
+ .rodata        0x00000000000480fa       0x18 build/cooja///mtype729.a(tsch-timeslot-t)
+                0x00000000000480fa                tsch_timeslot_timing_us_10000
+ .rodata        0x0000000000048112       0x53 build/cooja///mtype729.a(uip-nd6.o)
+ *fill*         0x0000000000048165        0x3 
+ .rodata        0x0000000000048168       0xc4 build/cooja///mtype729.a(rpl-dag-root.o)
+ .rodata        0x000000000004822c      0x39a build/cooja///mtype729.a(rpl-ext-header.)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00000000000485c8     0x1bac
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000000485c8     0x1bac node.o
+
+.eh_frame       0x000000000004a174     0x7214
+ *(.eh_frame)
+ .eh_frame      0x000000000004a174       0x3c /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x000000000004a1b0       0x20 node.o
+                                         0x38 (size before relaxing)
+ .eh_frame      0x000000000004a1d0      0x178 build/cooja///mtype729.o
+                                        0x190 (size before relaxing)
+ .eh_frame      0x000000000004a348      0x378 build/cooja///obj/sf-plugtest.o
+                                        0x390 (size before relaxing)
+ .eh_frame      0x000000000004a6c0       0x40 build/cooja///mtype729.a(simEnvChange.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000004a700       0x60 build/cooja///mtype729.a(cooja_mt.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000004a760       0x80 build/cooja///mtype729.a(cooja_mtarch.o)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000004a7e0       0xc8 build/cooja///mtype729.a(rtimer-arch.o)
+                                         0xe0 (size before relaxing)
+ .eh_frame      0x000000000004a8a8      0x160 build/cooja///mtype729.a(beep.o)
+                                        0x178 (size before relaxing)
+ .eh_frame      0x000000000004aa08       0xa0 build/cooja///mtype729.a(button-sensor.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000004aaa8       0xa0 build/cooja///mtype729.a(leds-arch.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000004ab48       0x40 build/cooja///mtype729.a(moteid.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000004ab88       0xa0 build/cooja///mtype729.a(pir-sensor.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000004ac28      0x100 build/cooja///mtype729.a(rs232.o)
+                                        0x118 (size before relaxing)
+ .eh_frame      0x000000000004ad28       0xa0 build/cooja///mtype729.a(vib-sensor.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000004adc8       0xc0 build/cooja///mtype729.a(clock.o)
+                                         0xd8 (size before relaxing)
+ .eh_frame      0x000000000004ae88      0x120 build/cooja///mtype729.a(cooja-log.o)
+                                        0x138 (size before relaxing)
+ .eh_frame      0x000000000004afa8      0x160 build/cooja///mtype729.a(cfs-cooja.o)
+                                        0x178 (size before relaxing)
+ .eh_frame      0x000000000004b108      0x340 build/cooja///mtype729.a(cooja-radio.o)
+                                        0x358 (size before relaxing)
+ .eh_frame      0x000000000004b448       0xa0 build/cooja///mtype729.a(eeprom.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000004b4e8       0x40 build/cooja///mtype729.a(random.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000004b528       0xc0 build/cooja///mtype729.a(sensors.o)
+                                         0xd8 (size before relaxing)
+ .eh_frame      0x000000000004b5e8       0x60 build/cooja///mtype729.a(serial-shell.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000004b648      0x3a8 build/cooja///mtype729.a(shell-commands.)
+                                        0x3c0 (size before relaxing)
+ .eh_frame      0x000000000004b9f0       0xa0 build/cooja///mtype729.a(shell.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000004ba90      0x100 build/cooja///mtype729.a(sixp-nbr.o)
+                                        0x118 (size before relaxing)
+ .eh_frame      0x000000000004bb90      0x448 build/cooja///mtype729.a(sixp-pkt.o)
+                                        0x460 (size before relaxing)
+ .eh_frame      0x000000000004bfd8      0x20c build/cooja///mtype729.a(sixp-trans.o)
+                                        0x224 (size before relaxing)
+ .eh_frame      0x000000000004c1e4       0xb4 build/cooja///mtype729.a(sixp.o)
+                                         0xcc (size before relaxing)
+ .eh_frame      0x000000000004c298       0xe0 build/cooja///mtype729.a(sixtop.o)
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x000000000004c378       0x20 build/cooja///mtype729.a(contiki-main.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x000000000004c398       0x40 build/cooja///mtype729.a(autostart.o)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000004c3d8      0x100 build/cooja///mtype729.a(ctimer.o)
+                                        0x118 (size before relaxing)
+ .eh_frame      0x000000000004c4d8       0x60 build/cooja///mtype729.a(energest.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000004c538      0x1e0 build/cooja///mtype729.a(etimer.o)
+                                        0x1f8 (size before relaxing)
+ .eh_frame      0x000000000004c718      0x100 build/cooja///mtype729.a(log.o)
+                                        0x118 (size before relaxing)
+ .eh_frame      0x000000000004c818       0x20 build/cooja///mtype729.a(node-id.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x000000000004c838      0x1c8 build/cooja///mtype729.a(process.o)
+                                        0x1e0 (size before relaxing)
+ .eh_frame      0x000000000004ca00       0x60 build/cooja///mtype729.a(rtimer.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000004ca60       0xa4 build/cooja///mtype729.a(timer.o)
+                                         0xbc (size before relaxing)
+ .eh_frame      0x000000000004cb04       0x60 build/cooja///mtype729.a(serial-line.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000004cb64       0x20 build/cooja///mtype729.a(assert.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x000000000004cb84      0x1a0 build/cooja///mtype729.a(list.o)
+                                        0x1b8 (size before relaxing)
+ .eh_frame      0x000000000004cd24       0xa0 build/cooja///mtype729.a(memb.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000004cdc4       0xa0 build/cooja///mtype729.a(ringbuf.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x000000000004ce64       0x60 build/cooja///mtype729.a(linkaddr.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000004cec4      0x2ac build/cooja///mtype729.a(nbr-table.o)
+                                        0x2c4 (size before relaxing)
+ .eh_frame      0x000000000004d170       0x80 build/cooja///mtype729.a(netstack.o)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000004d1f0      0x28c build/cooja///mtype729.a(packetbuf.o)
+                                        0x2a4 (size before relaxing)
+ .eh_frame      0x000000000004d47c      0x1a0 build/cooja///mtype729.a(queuebuf.o)
+                                        0x1b8 (size before relaxing)
+ .eh_frame      0x000000000004d61c      0x1a4 build/cooja///mtype729.a(frame802154.o)
+                                        0x1bc (size before relaxing)
+ .eh_frame      0x000000000004d7c0      0x250 build/cooja///mtype729.a(frame802154e-ie)
+                                        0x268 (size before relaxing)
+ .eh_frame      0x000000000004da10       0xd8 build/cooja///mtype729.a(tsch-adaptive-t)
+                                         0xf0 (size before relaxing)
+ .eh_frame      0x000000000004dae8       0xb0 build/cooja///mtype729.a(tsch-log.o)
+                                         0xc8 (size before relaxing)
+ .eh_frame      0x000000000004db98      0x2f4 build/cooja///mtype729.a(tsch-queue.o)
+                                        0x30c (size before relaxing)
+ .eh_frame      0x000000000004de8c      0x258 build/cooja///mtype729.a(tsch-schedule.o)
+                                        0x270 (size before relaxing)
+ .eh_frame      0x000000000004e0e4      0x218 build/cooja///mtype729.a(tsch-slot-opera)
+                                        0x230 (size before relaxing)
+ .eh_frame      0x000000000004e2fc      0x3ac build/cooja///mtype729.a(tsch.o)
+                                        0x3c4 (size before relaxing)
+ .eh_frame      0x000000000004e6a8      0x28c build/cooja///mtype729.a(sicslowpan.o)
+                                        0x2a4 (size before relaxing)
+ .eh_frame      0x000000000004e934      0x244 build/cooja///mtype729.a(tcpip.o)
+                                        0x25c (size before relaxing)
+ .eh_frame      0x000000000004eb78      0x1c0 build/cooja///mtype729.a(uip-ds6-nbr.o)
+                                        0x1d8 (size before relaxing)
+ .eh_frame      0x000000000004ed38      0x220 build/cooja///mtype729.a(uip-ds6-route.o)
+                                        0x238 (size before relaxing)
+ .eh_frame      0x000000000004ef58      0x2e8 build/cooja///mtype729.a(uip-ds6.o)
+                                        0x300 (size before relaxing)
+ .eh_frame      0x000000000004f240      0x158 build/cooja///mtype729.a(uip-icmp6.o)
+                                        0x170 (size before relaxing)
+ .eh_frame      0x000000000004f398       0xe0 build/cooja///mtype729.a(uip-packetqueue)
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x000000000004f478      0x18c build/cooja///mtype729.a(uip-sr.o)
+                                        0x1a4 (size before relaxing)
+ .eh_frame      0x000000000004f604      0x1f0 build/cooja///mtype729.a(uip6.o)
+                                        0x208 (size before relaxing)
+ .eh_frame      0x000000000004f7f4      0x200 build/cooja///mtype729.a(uipbuf.o)
+                                        0x218 (size before relaxing)
+ .eh_frame      0x000000000004f9f4       0x90 build/cooja///mtype729.a(uiplib.o)
+                                         0xa8 (size before relaxing)
+ .eh_frame      0x000000000004fa84      0x370 build/cooja///mtype729.a(rpl-dag.o)
+                                        0x388 (size before relaxing)
+ .eh_frame      0x000000000004fdf4      0x1dc build/cooja///mtype729.a(rpl-icmp6.o)
+                                        0x1f4 (size before relaxing)
+ .eh_frame      0x000000000004ffd0      0x148 build/cooja///mtype729.a(rpl-mrhof.o)
+                                        0x160 (size before relaxing)
+ .eh_frame      0x0000000000050118       0x80 build/cooja///mtype729.a(rpl-nbr-policy.)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x0000000000050198      0x2e4 build/cooja///mtype729.a(rpl-neighbor.o)
+                                        0x2fc (size before relaxing)
+ .eh_frame      0x000000000005047c      0x368 build/cooja///mtype729.a(rpl-timers.o)
+                                        0x380 (size before relaxing)
+ .eh_frame      0x00000000000507e4      0x1e0 build/cooja///mtype729.a(rpl.o)
+                                        0x1f8 (size before relaxing)
+ .eh_frame      0x00000000000509c4       0xa0 build/cooja///mtype729.a(watchdog.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000050a64       0xc4 build/cooja///mtype729.a(stimer.o)
+                                         0xdc (size before relaxing)
+ .eh_frame      0x0000000000050b28      0x120 build/cooja///mtype729.a(ringbufindex.o)
+                                        0x138 (size before relaxing)
+ .eh_frame      0x0000000000050c48      0x120 build/cooja///mtype729.a(link-stats.o)
+                                        0x138 (size before relaxing)
+ .eh_frame      0x0000000000050d68       0x48 build/cooja///mtype729.a(mac-sequence.o)
+                                         0x60 (size before relaxing)
+ .eh_frame      0x0000000000050db0       0x20 build/cooja///mtype729.a(mac.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x0000000000050dd0       0xb0 build/cooja///mtype729.a(framer-802154.o)
+                                         0xc8 (size before relaxing)
+ .eh_frame      0x0000000000050e80      0x148 build/cooja///mtype729.a(tsch-packet.o)
+                                        0x160 (size before relaxing)
+ .eh_frame      0x0000000000050fc8       0xa4 build/cooja///mtype729.a(tsch-rpl.o)
+                                         0xbc (size before relaxing)
+ .eh_frame      0x000000000005106c       0x88 build/cooja///mtype729.a(uip-nd6.o)
+                                         0xa0 (size before relaxing)
+ .eh_frame      0x00000000000510f4       0xa0 build/cooja///mtype729.a(rpl-dag-root.o)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000051194      0x14c build/cooja///mtype729.a(rpl-ext-header.)
+                                        0x164 (size before relaxing)
+ .eh_frame      0x00000000000512e0       0x38 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_divdi3.o)
+                                         0x50 (size before relaxing)
+ .eh_frame      0x0000000000051318       0x6c /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_udivdi3.o)
+                                         0x84 (size before relaxing)
+ .eh_frame      0x0000000000051384        0x4 /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000051388                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x0000000000052ef8                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000052ef8        0x4
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000052ef8        0x4 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x0000000000052efc        0x4
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000052efc        0x4 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000052f00        0x4
+ *(.jcr)
+ .jcr           0x0000000000052f00        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x0000000000052f00        0x4 /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000052f04       0xe8
+ *(.dynamic)
+ .dynamic       0x0000000000052f04       0xe8 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+                0x0000000000052f04                _DYNAMIC
+
+.got            0x0000000000052fec       0x14
+ *(.got)
+ .got           0x0000000000052fec       0x14 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000053ff4                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0000000000053000       0x14
+ *(.got.plt)
+ .got.plt       0x0000000000053000       0x14 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+                0x0000000000053000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000053020      0x378
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000053020        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ .data          0x0000000000053020        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+ .data.rel      0x0000000000053020        0x4 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+                0x0000000000053020                __dso_handle
+ .data          0x0000000000053024       0x10 node.o
+                0x0000000000053024                node_process
+ *fill*         0x0000000000053034        0xc 
+ .data          0x0000000000053040       0x44 build/cooja///mtype729.o
+                0x0000000000053040                simInterfaces
+                0x0000000000053074                sensors
+ .data          0x0000000000053084        0x0 build/cooja///obj/sf-plugtest.o
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(simEnvChange.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(cooja_mt.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(cooja_mtarch.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(rtimer-arch.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(beep.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(button-sensor.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(leds-arch.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(moteid.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(pir-sensor.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(rs232.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(vib-sensor.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(clock.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(cooja-log.o)
+ .data          0x0000000000053084        0x0 build/cooja///mtype729.a(cfs-cooja.o)
+ .data          0x0000000000053084       0x2c build/cooja///mtype729.a(cooja-radio.o)
+                0x0000000000053084                simRadioHWOn
+                0x0000000000053088                simSignalStrength
+                0x000000000005308c                simLastSignalStrength
+                0x0000000000053090                simPower
+                0x0000000000053094                simRadioChannel
+                0x0000000000053098                simLQI
+                0x00000000000530a0                cooja_radio_process
+ .data          0x00000000000530b0        0x0 build/cooja///mtype729.a(eeprom.o)
+ .data          0x00000000000530b0        0x0 build/cooja///mtype729.a(random.o)
+ .data          0x00000000000530b0       0x10 build/cooja///mtype729.a(sensors.o)
+                0x00000000000530b0                sensors_process
+ .data          0x00000000000530c0       0x10 build/cooja///mtype729.a(serial-shell.o)
+                0x00000000000530c0                serial_shell_process
+ .data          0x00000000000530d0        0xc build/cooja///mtype729.a(shell-commands.)
+ .data          0x00000000000530dc        0x0 build/cooja///mtype729.a(shell.o)
+ .data          0x00000000000530dc       0x14 build/cooja///mtype729.a(sixp-nbr.o)
+ .data          0x00000000000530f0        0x0 build/cooja///mtype729.a(sixp-pkt.o)
+ .data          0x00000000000530f0       0x10 build/cooja///mtype729.a(sixp-trans.o)
+ .data          0x0000000000053100        0x0 build/cooja///mtype729.a(sixp.o)
+ .data          0x0000000000053100        0x0 build/cooja///mtype729.a(sixtop.o)
+ .data          0x0000000000053100        0x0 build/cooja///mtype729.a(contiki-main.o)
+ .data          0x0000000000053100        0x0 build/cooja///mtype729.a(autostart.o)
+ .data          0x0000000000053100       0x14 build/cooja///mtype729.a(ctimer.o)
+                0x0000000000053104                ctimer_process
+ .data          0x0000000000053114        0x0 build/cooja///mtype729.a(energest.o)
+ .data          0x0000000000053114       0x10 build/cooja///mtype729.a(etimer.o)
+                0x0000000000053114                etimer_process
+ *fill*         0x0000000000053124       0x1c 
+ .data          0x0000000000053140       0xb0 build/cooja///mtype729.a(log.o)
+                0x0000000000053140                curr_log_level_rpl
+                0x0000000000053144                curr_log_level_tcpip
+                0x0000000000053148                curr_log_level_ipv6
+                0x000000000005314c                curr_log_level_6lowpan
+                0x0000000000053150                curr_log_level_mac
+                0x0000000000053154                curr_log_level_framer
+                0x0000000000053158                curr_log_level_6top
+                0x000000000005315c                curr_log_level_main
+                0x0000000000053160                all_modules
+ .data          0x00000000000531f0        0x0 build/cooja///mtype729.a(node-id.o)
+ .data          0x00000000000531f0        0x0 build/cooja///mtype729.a(process.o)
+ .data          0x00000000000531f0        0x0 build/cooja///mtype729.a(rtimer.o)
+ .data          0x00000000000531f0        0x0 build/cooja///mtype729.a(timer.o)
+ .data          0x00000000000531f0       0x10 build/cooja///mtype729.a(serial-line.o)
+                0x00000000000531f0                serial_line_process
+ .data          0x0000000000053200        0x0 build/cooja///mtype729.a(assert.o)
+ .data          0x0000000000053200        0x0 build/cooja///mtype729.a(list.o)
+ .data          0x0000000000053200        0x0 build/cooja///mtype729.a(memb.o)
+ .data          0x0000000000053200        0x0 build/cooja///mtype729.a(ringbuf.o)
+ .data          0x0000000000053200        0x0 build/cooja///mtype729.a(linkaddr.o)
+ .data          0x0000000000053200       0x10 build/cooja///mtype729.a(nbr-table.o)
+ .data          0x0000000000053210        0x4 build/cooja///mtype729.a(netstack.o)
+ .data          0x0000000000053214        0x4 build/cooja///mtype729.a(packetbuf.o)
+ .data          0x0000000000053218       0x18 build/cooja///mtype729.a(queuebuf.o)
+ .data          0x0000000000053230        0x2 build/cooja///mtype729.a(frame802154.o)
+ .data          0x0000000000053232        0x0 build/cooja///mtype729.a(frame802154e-ie)
+ .data          0x0000000000053232        0x0 build/cooja///mtype729.a(tsch-adaptive-t)
+ .data          0x0000000000053232        0x0 build/cooja///mtype729.a(tsch-log.o)
+ *fill*         0x0000000000053232        0x2 
+ .data          0x0000000000053234       0x1c build/cooja///mtype729.a(tsch-queue.o)
+ .data          0x0000000000053250       0x1c build/cooja///mtype729.a(tsch-schedule.o)
+ .data          0x000000000005326c        0x4 build/cooja///mtype729.a(tsch-slot-opera)
+ .data          0x0000000000053270       0x30 build/cooja///mtype729.a(tsch.o)
+                0x0000000000053270                tsch_process
+                0x0000000000053280                tsch_send_eb_process
+                0x0000000000053290                tsch_pending_events_process
+ .data          0x00000000000532a0        0x0 build/cooja///mtype729.a(sicslowpan.o)
+ .data          0x00000000000532a0       0x10 build/cooja///mtype729.a(tcpip.o)
+                0x00000000000532a0                tcpip_process
+ .data          0x00000000000532b0       0x14 build/cooja///mtype729.a(uip-ds6-nbr.o)
+ .data          0x00000000000532c4       0x10 build/cooja///mtype729.a(uip-ds6-route.o)
+ .data          0x00000000000532d4        0x0 build/cooja///mtype729.a(uip-ds6.o)
+ .data          0x00000000000532d4       0x20 build/cooja///mtype729.a(uip-icmp6.o)
+ .data          0x00000000000532f4        0xc build/cooja///mtype729.a(uip-packetqueue)
+ .data          0x0000000000053300       0x10 build/cooja///mtype729.a(uip-sr.o)
+ .data          0x0000000000053310        0x0 build/cooja///mtype729.a(uip6.o)
+ .data          0x0000000000053310        0x0 build/cooja///mtype729.a(uipbuf.o)
+ .data          0x0000000000053310        0x0 build/cooja///mtype729.a(uiplib.o)
+ .data          0x0000000000053310        0x0 build/cooja///mtype729.a(rpl-dag.o)
+ .data          0x0000000000053310       0x30 build/cooja///mtype729.a(rpl-icmp6.o)
+ .data          0x0000000000053340       0x24 build/cooja///mtype729.a(rpl-mrhof.o)
+                0x0000000000053340                rpl_mrhof
+ .data          0x0000000000053364        0x0 build/cooja///mtype729.a(rpl-nbr-policy.)
+ .data          0x0000000000053364       0x14 build/cooja///mtype729.a(rpl-neighbor.o)
+                0x0000000000053374                rpl_neighbors
+ .data          0x0000000000053378        0x0 build/cooja///mtype729.a(rpl-timers.o)
+ .data          0x0000000000053378        0x0 build/cooja///mtype729.a(rpl.o)
+ .data          0x0000000000053378        0x0 build/cooja///mtype729.a(watchdog.o)
+ .data          0x0000000000053378        0x0 build/cooja///mtype729.a(stimer.o)
+ .data          0x0000000000053378        0x0 build/cooja///mtype729.a(ringbufindex.o)
+ .data          0x0000000000053378       0x14 build/cooja///mtype729.a(link-stats.o)
+ .data          0x000000000005338c        0x0 build/cooja///mtype729.a(mac-sequence.o)
+ .data          0x000000000005338c        0x0 build/cooja///mtype729.a(mac.o)
+ .data          0x000000000005338c        0x0 build/cooja///mtype729.a(framer-802154.o)
+ .data          0x000000000005338c        0x0 build/cooja///mtype729.a(tsch-packet.o)
+ .data          0x000000000005338c        0x0 build/cooja///mtype729.a(tsch-rpl.o)
+ .data          0x000000000005338c        0x0 build/cooja///mtype729.a(tsch-timeslot-t)
+ .data          0x000000000005338c        0xc build/cooja///mtype729.a(uip-nd6.o)
+ .data          0x0000000000053398        0x0 build/cooja///mtype729.a(rpl-dag-root.o)
+ .data          0x0000000000053398        0x0 build/cooja///mtype729.a(rpl-ext-header.)
+ .data          0x0000000000053398        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_divdi3.o)
+ .data          0x0000000000053398        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_udivdi3.o)
+ .data          0x0000000000053398        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000053398        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crtn.o
+
+.tm_clone_table
+                0x0000000000053398        0x0
+ .tm_clone_table
+                0x0000000000053398        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x0000000000053398        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000053398                _edata = .
+                0x0000000000053398                PROVIDE (edata, .)
+                0x0000000000053398                . = .
+                0x0000000000053398                __bss_start = .
+
+.bss            0x00000000000533a0    0x29040
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000000533a0        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crti.o
+ .bss           0x00000000000533a0        0x1 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+ .bss           0x00000000000533a1        0x0 node.o
+ *fill*         0x00000000000533a1       0x1f 
+ .bss           0x00000000000533c0     0x2030 build/cooja///mtype729.o
+ *fill*         0x00000000000553f0       0x10 
+ .bss           0x0000000000055400       0x8e build/cooja///obj/sf-plugtest.o
+ .bss           0x000000000005548e        0x1 build/cooja///mtype729.a(simEnvChange.o)
+                0x000000000005548e                simDontFallAsleep
+ *fill*         0x000000000005548f        0x1 
+ .bss           0x0000000000055490        0x4 build/cooja///mtype729.a(cooja_mt.o)
+ .bss           0x0000000000055494        0x4 build/cooja///mtype729.a(cooja_mtarch.o)
+ .bss           0x0000000000055498        0x0 build/cooja///mtype729.a(rtimer-arch.o)
+ .bss           0x0000000000055498        0x0 build/cooja///mtype729.a(beep.o)
+ .bss           0x0000000000055498        0x8 build/cooja///mtype729.a(button-sensor.o)
+ .bss           0x00000000000554a0        0x0 build/cooja///mtype729.a(leds-arch.o)
+ .bss           0x00000000000554a0        0x0 build/cooja///mtype729.a(moteid.o)
+ .bss           0x00000000000554a0        0x1 build/cooja///mtype729.a(pir-sensor.o)
+                0x00000000000554a0                simPirValue
+ *fill*         0x00000000000554a1        0x3 
+ .bss           0x00000000000554a4        0x4 build/cooja///mtype729.a(rs232.o)
+ .bss           0x00000000000554a8        0x1 build/cooja///mtype729.a(vib-sensor.o)
+                0x00000000000554a8                simVibValue
+ .bss           0x00000000000554a9        0x0 build/cooja///mtype729.a(clock.o)
+ *fill*         0x00000000000554a9       0x17 
+ .bss           0x00000000000554c0     0x2020 build/cooja///mtype729.a(cooja-log.o)
+ .bss           0x00000000000574e0      0xfc0 build/cooja///mtype729.a(cfs-cooja.o)
+                0x00000000000574e0                simCFSData
+                0x0000000000058480                simCFSSize
+                0x0000000000058484                simCFSChanged
+                0x0000000000058488                simCFSRead
+                0x000000000005848c                simCFSWritten
+ .bss           0x00000000000584a0       0x24 build/cooja///mtype729.a(cooja-radio.o)
+                0x00000000000584a0                simReceiving
+                0x00000000000584a4                simInSize
+                0x00000000000584a8                simLastPacketTimestamp
+                0x00000000000584b0                simOutSize
+ .bss           0x00000000000584c4        0xc build/cooja///mtype729.a(eeprom.o)
+                0x00000000000584c4                simEEPROMChanged
+                0x00000000000584c8                simEEPROMRead
+                0x00000000000584cc                simEEPROMWritten
+ .bss           0x00000000000584d0        0x0 build/cooja///mtype729.a(random.o)
+ .bss           0x00000000000584d0        0xc build/cooja///mtype729.a(sensors.o)
+ .bss           0x00000000000584dc        0x2 build/cooja///mtype729.a(serial-shell.o)
+ *fill*         0x00000000000584de        0x2 
+ .bss           0x00000000000584e0       0x60 build/cooja///mtype729.a(shell-commands.)
+ .bss           0x0000000000058540        0xa build/cooja///mtype729.a(shell.o)
+ *fill*         0x000000000005854a       0x16 
+ .bss           0x0000000000058560     0x12c0 build/cooja///mtype729.a(sixp-nbr.o)
+ .bss           0x0000000000059820        0x0 build/cooja///mtype729.a(sixp-pkt.o)
+ .bss           0x0000000000059820       0x70 build/cooja///mtype729.a(sixp-trans.o)
+ .bss           0x0000000000059890        0x0 build/cooja///mtype729.a(sixp.o)
+ .bss           0x0000000000059890        0x0 build/cooja///mtype729.a(sixtop.o)
+ .bss           0x0000000000059890        0x0 build/cooja///mtype729.a(contiki-main.o)
+ .bss           0x0000000000059890        0x0 build/cooja///mtype729.a(autostart.o)
+ .bss           0x0000000000059890        0x5 build/cooja///mtype729.a(ctimer.o)
+ .bss           0x0000000000059895        0x0 build/cooja///mtype729.a(energest.o)
+ *fill*         0x0000000000059895        0x3 
+ .bss           0x0000000000059898        0x8 build/cooja///mtype729.a(etimer.o)
+ .bss           0x00000000000598a0        0xc build/cooja///mtype729.a(log.o)
+                0x00000000000598a0                curr_log_level_nullnet
+                0x00000000000598a4                curr_log_level_coap
+                0x00000000000598a8                curr_log_level_lwm2m
+ .bss           0x00000000000598ac        0x2 build/cooja///mtype729.a(node-id.o)
+                0x00000000000598ac                node_id
+ *fill*         0x00000000000598ae       0x12 
+ .bss           0x00000000000598c0      0x1a1 build/cooja///mtype729.a(process.o)
+                0x00000000000598c0                process_list
+                0x00000000000598c4                process_current
+ *fill*         0x0000000000059a61        0x3 
+ .bss           0x0000000000059a64        0x4 build/cooja///mtype729.a(rtimer.o)
+ .bss           0x0000000000059a68        0x0 build/cooja///mtype729.a(timer.o)
+ *fill*         0x0000000000059a68       0x18 
+ .bss           0x0000000000059a80      0x140 build/cooja///mtype729.a(serial-line.o)
+ .bss           0x0000000000059bc0        0x0 build/cooja///mtype729.a(assert.o)
+ .bss           0x0000000000059bc0        0x0 build/cooja///mtype729.a(list.o)
+ .bss           0x0000000000059bc0        0x0 build/cooja///mtype729.a(memb.o)
+ .bss           0x0000000000059bc0        0x0 build/cooja///mtype729.a(ringbuf.o)
+ .bss           0x0000000000059bc0        0x0 build/cooja///mtype729.a(linkaddr.o)
+ .bss           0x0000000000059bc0     0x1214 build/cooja///mtype729.a(nbr-table.o)
+ .bss           0x000000000005add4        0x4 build/cooja///mtype729.a(netstack.o)
+ *fill*         0x000000000005add8        0x8 
+ .bss           0x000000000005ade0       0xa0 build/cooja///mtype729.a(packetbuf.o)
+ .bss           0x000000000005ae80     0x2c80 build/cooja///mtype729.a(queuebuf.o)
+ .bss           0x000000000005db00        0x0 build/cooja///mtype729.a(frame802154.o)
+ .bss           0x000000000005db00        0x0 build/cooja///mtype729.a(frame802154e-ie)
+ .bss           0x000000000005db00       0x4c build/cooja///mtype729.a(tsch-adaptive-t)
+ *fill*         0x000000000005db4c       0x14 
+ .bss           0x000000000005db60      0x24c build/cooja///mtype729.a(tsch-log.o)
+ *fill*         0x000000000005ddac       0x14 
+ .bss           0x000000000005ddc0    0x150d4 build/cooja///mtype729.a(tsch-queue.o)
+ *fill*         0x0000000000072e94        0xc 
+ .bss           0x0000000000072ea0      0x4ac build/cooja///mtype729.a(tsch-schedule.o)
+ *fill*         0x000000000007334c       0x14 
+ .bss           0x0000000000073360      0x1b8 build/cooja///mtype729.a(tsch-slot-opera)
+                0x0000000000073360                last_timesource_neighbor
+                0x0000000000073364                current_link
+                0x0000000000073368                tsch_current_burst_count
+ *fill*         0x0000000000073518        0x8 
+ .bss           0x0000000000073520      0x124 build/cooja///mtype729.a(tsch.o)
+                0x0000000000073520                tsch_is_started
+                0x0000000000073524                tsch_is_initialized
+                0x0000000000073528                tsch_is_coordinator
+                0x000000000007352c                tsch_is_associated
+                0x0000000000073530                tsch_association_count
+                0x0000000000073534                tsch_is_pan_secured
+ .bss           0x0000000000073644       0x38 build/cooja///mtype729.a(sicslowpan.o)
+ .bss           0x000000000007367c       0x10 build/cooja///mtype729.a(tcpip.o)
+ *fill*         0x000000000007368c       0x14 
+ .bss           0x00000000000736a0     0x1c20 build/cooja///mtype729.a(uip-ds6-nbr.o)
+ .bss           0x00000000000752c0       0x60 build/cooja///mtype729.a(uip-ds6-route.o)
+ .bss           0x0000000000075320       0x20 build/cooja///mtype729.a(uip-ds6.o)
+ .bss           0x0000000000075340       0x18 build/cooja///mtype729.a(uip-icmp6.o)
+ *fill*         0x0000000000075358        0x8 
+ .bss           0x0000000000075360      0x1b8 build/cooja///mtype729.a(uip-packetqueue)
+ *fill*         0x0000000000075518        0x8 
+ .bss           0x0000000000075520     0x1d80 build/cooja///mtype729.a(uip-sr.o)
+ .bss           0x00000000000772a0        0x6 build/cooja///mtype729.a(uip6.o)
+                0x00000000000772a0                uip_ext_bitmap
+                0x00000000000772a1                uip_ext_len
+                0x00000000000772a2                uip_last_proto
+ .bss           0x00000000000772a6       0x18 build/cooja///mtype729.a(uipbuf.o)
+ .bss           0x00000000000772be        0x0 build/cooja///mtype729.a(uiplib.o)
+ .bss           0x00000000000772be        0x0 build/cooja///mtype729.a(rpl-dag.o)
+ .bss           0x00000000000772be        0x0 build/cooja///mtype729.a(rpl-icmp6.o)
+ .bss           0x00000000000772be        0x0 build/cooja///mtype729.a(rpl-mrhof.o)
+ *fill*         0x00000000000772be        0x2 
+ .bss           0x00000000000772c0        0xe build/cooja///mtype729.a(rpl-nbr-policy.)
+ *fill*         0x00000000000772ce       0x12 
+ .bss           0x00000000000772e0      0x960 build/cooja///mtype729.a(rpl-neighbor.o)
+ .bss           0x0000000000077c40       0x40 build/cooja///mtype729.a(rpl-timers.o)
+ .bss           0x0000000000077c80        0x1 build/cooja///mtype729.a(rpl.o)
+ .bss           0x0000000000077c81        0x0 build/cooja///mtype729.a(watchdog.o)
+ .bss           0x0000000000077c81        0x0 build/cooja///mtype729.a(stimer.o)
+ .bss           0x0000000000077c81        0x0 build/cooja///mtype729.a(ringbufindex.o)
+ *fill*         0x0000000000077c81       0x1f 
+ .bss           0x0000000000077ca0      0xe10 build/cooja///mtype729.a(link-stats.o)
+ *fill*         0x0000000000078ab0       0x10 
+ .bss           0x0000000000078ac0      0x100 build/cooja///mtype729.a(mac-sequence.o)
+ .bss           0x0000000000078bc0        0x0 build/cooja///mtype729.a(mac.o)
+ .bss           0x0000000000078bc0        0x2 build/cooja///mtype729.a(framer-802154.o)
+ .bss           0x0000000000078bc2       0x1a build/cooja///mtype729.a(tsch-packet.o)
+ .bss           0x0000000000078bdc        0x0 build/cooja///mtype729.a(tsch-rpl.o)
+ .bss           0x0000000000078bdc        0x0 build/cooja///mtype729.a(tsch-timeslot-t)
+ .bss           0x0000000000078bdc       0x10 build/cooja///mtype729.a(uip-nd6.o)
+ .bss           0x0000000000078bec       0x11 build/cooja///mtype729.a(rpl-dag-root.o)
+ .bss           0x0000000000078bfd        0x0 build/cooja///mtype729.a(rpl-ext-header.)
+ .bss           0x0000000000078bfd        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_divdi3.o)
+ .bss           0x0000000000078bfd        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000078bfd        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000078bfd        0x0 /usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crtn.o
+ *(COMMON)
+ *fill*         0x0000000000078bfd        0x3 
+ COMMON         0x0000000000078c00        0x8 build/cooja///mtype729.o
+                0x0000000000078c00                referenceVar
+                0x0000000000078c04                sensors_flags
+ COMMON         0x0000000000078c08        0xc build/cooja///mtype729.a(simEnvChange.o)
+                0x0000000000078c08                simEtimerPending
+                0x0000000000078c0c                simProcessRunValue
+                0x0000000000078c10                simEtimerNextExpirationTime
+ *fill*         0x0000000000078c14        0x4 
+ COMMON         0x0000000000078c18       0x18 build/cooja///mtype729.a(rtimer-arch.o)
+                0x0000000000078c18                simRtimerPending
+                0x0000000000078c20                simRtimerCurrentTicks
+                0x0000000000078c28                simRtimerNextExpirationTime
+ COMMON         0x0000000000078c30        0x1 build/cooja///mtype729.a(beep.o)
+                0x0000000000078c30                simBeeped
+ COMMON         0x0000000000078c31        0x3 build/cooja///mtype729.a(button-sensor.o)
+                0x0000000000078c31                simButtonIsActive
+                0x0000000000078c32                simButtonIsDown
+                0x0000000000078c33                simButtonChanged
+ COMMON         0x0000000000078c34        0x1 build/cooja///mtype729.a(leds-arch.o)
+                0x0000000000078c34                simLedsValue
+ *fill*         0x0000000000078c35        0x3 
+ COMMON         0x0000000000078c38        0xc build/cooja///mtype729.a(moteid.o)
+                0x0000000000078c38                simRandomSeed
+                0x0000000000078c3c                simMoteIDChanged
+                0x0000000000078c40                simMoteID
+ COMMON         0x0000000000078c44        0x2 build/cooja///mtype729.a(pir-sensor.o)
+                0x0000000000078c44                simPirIsActive
+                0x0000000000078c45                simPirChanged
+ *fill*         0x0000000000078c46       0x1a 
+ COMMON         0x0000000000078c60      0x820 build/cooja///mtype729.a(rs232.o)
+                0x0000000000078c60                simSerialReceivingFlag
+                0x0000000000078c64                simSerialReceivingLength
+                0x0000000000078c80                simSerialReceivingData
+ COMMON         0x0000000000079480        0x2 build/cooja///mtype729.a(vib-sensor.o)
+                0x0000000000079480                simVibChanged
+                0x0000000000079481                simVibIsActive
+ *fill*         0x0000000000079482        0x2 
+ COMMON         0x0000000000079484        0x4 build/cooja///mtype729.a(clock.o)
+                0x0000000000079484                simCurrentTime
+ *fill*         0x0000000000079488       0x18 
+ COMMON         0x00000000000794a0     0x2020 build/cooja///mtype729.a(cooja-log.o)
+                0x00000000000794a0                simLoggedLength
+                0x00000000000794a4                simLoggedFlag
+                0x00000000000794c0                simLoggedData
+ COMMON         0x000000000007b4c0      0x100 build/cooja///mtype729.a(cooja-radio.o)
+                0x000000000007b4c0                simOutDataBuffer
+                0x000000000007b540                simInDataBuffer
+ COMMON         0x000000000007b5c0      0x400 build/cooja///mtype729.a(eeprom.o)
+                0x000000000007b5c0                simEEPROMData
+ COMMON         0x000000000007b9c0        0x1 build/cooja///mtype729.a(sensors.o)
+                0x000000000007b9c0                sensors_event
+ *fill*         0x000000000007b9c1        0x3 
+ COMMON         0x000000000007b9c4        0x4 build/cooja///mtype729.a(sixtop.o)
+                0x000000000007b9c4                scheduling_functions
+ COMMON         0x000000000007b9c8       0x50 build/cooja///mtype729.a(contiki-main.o)
+                0x000000000007b9c8                eb_per_time_source
+                0x000000000007b9dc                unicast_per_neighbor_rpl_storing
+                0x000000000007b9f0                unicast_per_neighbor_rpl_ns
+                0x000000000007ba04                default_common
+ COMMON         0x000000000007ba18        0x1 build/cooja///mtype729.a(serial-line.o)
+                0x000000000007ba18                serial_line_event_message
+ *fill*         0x000000000007ba19        0x1 
+ COMMON         0x000000000007ba1a        0x8 build/cooja///mtype729.a(linkaddr.o)
+                0x000000000007ba1a                linkaddr_node_addr
+ COMMON         0x000000000007ba22       0x2a build/cooja///mtype729.a(packetbuf.o)
+                0x000000000007ba22                packetbuf_attrs
+                0x000000000007ba3c                packetbuf_addrs
+ COMMON         0x000000000007ba4c        0x8 build/cooja///mtype729.a(tsch-queue.o)
+                0x000000000007ba4c                n_eb
+                0x000000000007ba50                n_broadcast
+ *fill*         0x000000000007ba54        0xc 
+ COMMON         0x000000000007ba60      0x380 build/cooja///mtype729.a(tsch-slot-opera)
+                0x000000000007ba60                tsch_current_channel
+                0x000000000007ba61                input_ringbuf
+                0x000000000007ba80                dequeued_array
+                0x000000000007bb80                dequeued_ringbuf
+                0x000000000007bb84                last_sync_time
+                0x000000000007bba0                input_array
+ COMMON         0x000000000007bde0       0xb4 build/cooja///mtype729.a(tsch.o)
+                0x000000000007bde0                tsch_hopping_sequence
+                0x000000000007bde2                tsch_timing_us
+                0x000000000007bdfc                tsch_current_asn
+                0x000000000007be04                rx_count
+                0x000000000007be08                min_drift_seen
+                0x000000000007be20                tsch_timing
+                0x000000000007be80                sync_count
+                0x000000000007be84                tsch_join_priority
+                0x000000000007be88                tx_count
+                0x000000000007be8c                max_drift_seen
+                0x000000000007be90                tsch_hopping_sequence_length
+ COMMON         0x000000000007be94        0x1 build/cooja///mtype729.a(tcpip.o)
+                0x000000000007be94                tcpip_event
+ *fill*         0x000000000007be95        0xb 
+ COMMON         0x000000000007bea0      0x181 build/cooja///mtype729.a(uip-ds6.o)
+                0x000000000007bea0                uip_ds6_prefix_list
+                0x000000000007bf00                uip_ds6_timer_periodic
+                0x000000000007bf10                uip_ds6_netif_addr_list_offset
+                0x000000000007bf20                uip_ds6_if
+                0x000000000007c018                uip_ds6_timer_ra
+                0x000000000007c020                uip_ds6_addr_size
+ *fill*         0x000000000007c021       0x1f 
+ COMMON         0x000000000007c040      0x1e8 build/cooja///mtype729.a(uip6.o)
+                0x000000000007c040                uip_slen
+                0x000000000007c042                uip_lladdr
+                0x000000000007c04c                uip_appdata
+                0x000000000007c050                uip_flags
+                0x000000000007c060                uip_aligned_buf
+                0x000000000007c100                uip_len
+                0x000000000007c104                uip_sappdata
+                0x000000000007c120                uip_udp_conns
+                0x000000000007c220                uip_udp_conn
+                0x000000000007c224                uip_conn
+ *fill*         0x000000000007c228       0x18 
+ COMMON         0x000000000007c240      0x164 build/cooja///mtype729.a(rpl-dag.o)
+                0x000000000007c240                curr_instance
+ COMMON         0x000000000007c3a4       0x10 build/cooja///mtype729.a(rpl.o)
+                0x000000000007c3a4                rpl_multicast_addr
+ *fill*         0x000000000007c3b4        0xc 
+ COMMON         0x000000000007c3c0       0x20 build/cooja///mtype729.a(link-stats.o)
+                0x000000000007c3c0                periodic_timer
+                0x000000000007c3e0                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x000000000007c3e0                . = ALIGN (0x4)
+                0x000000000007c3e0                . = SEGMENT_START ("ldata-segment", .)
+                0x000000000007c3e0                . = ALIGN (0x4)
+                0x000000000007c3e0                _end = .
+                0x000000000007c3e0                PROVIDE (end, .)
+                0x000000000007c3e0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/i686-linux-gnu/4.8/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000000       0x2a node.o
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.o
+ .comment       0x0000000000000000       0x2a build/cooja///obj/sf-plugtest.o
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(simEnvChange.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(cooja_mt.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(cooja_mtarch.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rtimer-arch.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(beep.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(button-sensor.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(leds-arch.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(moteid.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(pir-sensor.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rs232.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(vib-sensor.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(clock.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(cooja-log.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(cfs-cooja.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(cooja-radio.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(eeprom.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(random.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(sensors.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(serial-shell.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(shell-commands.)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(shell.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(sixp-nbr.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(sixp-pkt.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(sixp-trans.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(sixp.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(sixtop.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(contiki-main.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(autostart.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(ctimer.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(energest.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(etimer.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(log.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(node-id.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(process.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rtimer.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(timer.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(serial-line.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(assert.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(list.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(memb.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(ringbuf.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(linkaddr.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(nbr-table.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(netstack.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(packetbuf.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(queuebuf.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(frame802154.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(frame802154e-ie)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch-adaptive-t)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch-log.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch-queue.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch-schedule.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch-slot-opera)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(sicslowpan.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tcpip.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uip-ds6-nbr.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uip-ds6-route.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uip-ds6.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uip-icmp6.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uip-packetqueue)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uip-sr.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uip6.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uipbuf.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uiplib.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl-dag.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl-icmp6.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl-mrhof.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl-nbr-policy.)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl-neighbor.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl-timers.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(watchdog.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(stimer.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(ringbufindex.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(link-stats.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(mac-sequence.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(mac.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(framer-802154.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch-packet.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch-rpl.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(tsch-timeslot-t)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(uip-nd6.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl-dag-root.o)
+ .comment       0x0000000000000000       0x2a build/cooja///mtype729.a(rpl-ext-header.)
+ .comment       0x0000000000000000       0x2a /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000000       0x2a /usr/lib/gcc/i686-linux-gnu/4.8/libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000000       0x2a /usr/lib/gcc/i686-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0xaf8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 node.o
+ .debug_aranges
+                0x0000000000000020       0x20 build/cooja///mtype729.o
+ .debug_aranges
+                0x0000000000000040       0x20 build/cooja///obj/sf-plugtest.o
+ .debug_aranges
+                0x0000000000000060       0x20 build/cooja///mtype729.a(simEnvChange.o)
+ .debug_aranges
+                0x0000000000000080       0x20 build/cooja///mtype729.a(cooja_mt.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 build/cooja///mtype729.a(cooja_mtarch.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 build/cooja///mtype729.a(rtimer-arch.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 build/cooja///mtype729.a(beep.o)
+ .debug_aranges
+                0x0000000000000100       0x20 build/cooja///mtype729.a(button-sensor.o)
+ .debug_aranges
+                0x0000000000000120       0x20 build/cooja///mtype729.a(leds-arch.o)
+ .debug_aranges
+                0x0000000000000140       0x20 build/cooja///mtype729.a(moteid.o)
+ .debug_aranges
+                0x0000000000000160       0x20 build/cooja///mtype729.a(pir-sensor.o)
+ .debug_aranges
+                0x0000000000000180       0x20 build/cooja///mtype729.a(rs232.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 build/cooja///mtype729.a(vib-sensor.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 build/cooja///mtype729.a(clock.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 build/cooja///mtype729.a(cooja-log.o)
+ .debug_aranges
+                0x0000000000000200       0x20 build/cooja///mtype729.a(cfs-cooja.o)
+ .debug_aranges
+                0x0000000000000220       0x20 build/cooja///mtype729.a(cooja-radio.o)
+ .debug_aranges
+                0x0000000000000240       0x20 build/cooja///mtype729.a(eeprom.o)
+ .debug_aranges
+                0x0000000000000260       0x20 build/cooja///mtype729.a(random.o)
+ .debug_aranges
+                0x0000000000000280       0x20 build/cooja///mtype729.a(sensors.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 build/cooja///mtype729.a(serial-shell.o)
+ .debug_aranges
+                0x00000000000002c0       0x20 build/cooja///mtype729.a(shell-commands.)
+ .debug_aranges
+                0x00000000000002e0       0x20 build/cooja///mtype729.a(shell.o)
+ .debug_aranges
+                0x0000000000000300       0x20 build/cooja///mtype729.a(sixp-nbr.o)
+ .debug_aranges
+                0x0000000000000320       0x20 build/cooja///mtype729.a(sixp-pkt.o)
+ .debug_aranges
+                0x0000000000000340       0x20 build/cooja///mtype729.a(sixp-trans.o)
+ .debug_aranges
+                0x0000000000000360       0x20 build/cooja///mtype729.a(sixp.o)
+ .debug_aranges
+                0x0000000000000380       0x20 build/cooja///mtype729.a(sixtop.o)
+ .debug_aranges
+                0x00000000000003a0       0x20 build/cooja///mtype729.a(contiki-main.o)
+ .debug_aranges
+                0x00000000000003c0       0x20 build/cooja///mtype729.a(autostart.o)
+ .debug_aranges
+                0x00000000000003e0       0x20 build/cooja///mtype729.a(ctimer.o)
+ .debug_aranges
+                0x0000000000000400       0x20 build/cooja///mtype729.a(energest.o)
+ .debug_aranges
+                0x0000000000000420       0x20 build/cooja///mtype729.a(etimer.o)
+ .debug_aranges
+                0x0000000000000440       0x20 build/cooja///mtype729.a(log.o)
+ .debug_aranges
+                0x0000000000000460       0x20 build/cooja///mtype729.a(node-id.o)
+ .debug_aranges
+                0x0000000000000480       0x20 build/cooja///mtype729.a(process.o)
+ .debug_aranges
+                0x00000000000004a0       0x20 build/cooja///mtype729.a(rtimer.o)
+ .debug_aranges
+                0x00000000000004c0       0x20 build/cooja///mtype729.a(timer.o)
+ .debug_aranges
+                0x00000000000004e0       0x20 build/cooja///mtype729.a(serial-line.o)
+ .debug_aranges
+                0x0000000000000500       0x20 build/cooja///mtype729.a(assert.o)
+ .debug_aranges
+                0x0000000000000520       0x20 build/cooja///mtype729.a(list.o)
+ .debug_aranges
+                0x0000000000000540       0x20 build/cooja///mtype729.a(memb.o)
+ .debug_aranges
+                0x0000000000000560       0x20 build/cooja///mtype729.a(ringbuf.o)
+ .debug_aranges
+                0x0000000000000580       0x20 build/cooja///mtype729.a(linkaddr.o)
+ .debug_aranges
+                0x00000000000005a0       0x20 build/cooja///mtype729.a(nbr-table.o)
+ .debug_aranges
+                0x00000000000005c0       0x20 build/cooja///mtype729.a(netstack.o)
+ .debug_aranges
+                0x00000000000005e0       0x20 build/cooja///mtype729.a(packetbuf.o)
+ .debug_aranges
+                0x0000000000000600       0x20 build/cooja///mtype729.a(queuebuf.o)
+ .debug_aranges
+                0x0000000000000620       0x20 build/cooja///mtype729.a(frame802154.o)
+ .debug_aranges
+                0x0000000000000640       0x20 build/cooja///mtype729.a(frame802154e-ie)
+ .debug_aranges
+                0x0000000000000660       0x20 build/cooja///mtype729.a(tsch-adaptive-t)
+ .debug_aranges
+                0x0000000000000680       0x20 build/cooja///mtype729.a(tsch-log.o)
+ .debug_aranges
+                0x00000000000006a0       0x20 build/cooja///mtype729.a(tsch-queue.o)
+ .debug_aranges
+                0x00000000000006c0       0x20 build/cooja///mtype729.a(tsch-schedule.o)
+ .debug_aranges
+                0x00000000000006e0       0x20 build/cooja///mtype729.a(tsch-slot-opera)
+ .debug_aranges
+                0x0000000000000700       0x20 build/cooja///mtype729.a(tsch.o)
+ .debug_aranges
+                0x0000000000000720       0x20 build/cooja///mtype729.a(sicslowpan.o)
+ .debug_aranges
+                0x0000000000000740       0x20 build/cooja///mtype729.a(tcpip.o)
+ .debug_aranges
+                0x0000000000000760       0x20 build/cooja///mtype729.a(uip-ds6-nbr.o)
+ .debug_aranges
+                0x0000000000000780       0x20 build/cooja///mtype729.a(uip-ds6-route.o)
+ .debug_aranges
+                0x00000000000007a0       0x20 build/cooja///mtype729.a(uip-ds6.o)
+ .debug_aranges
+                0x00000000000007c0       0x20 build/cooja///mtype729.a(uip-icmp6.o)
+ .debug_aranges
+                0x00000000000007e0       0x20 build/cooja///mtype729.a(uip-packetqueue)
+ .debug_aranges
+                0x0000000000000800       0x20 build/cooja///mtype729.a(uip-sr.o)
+ .debug_aranges
+                0x0000000000000820       0x20 build/cooja///mtype729.a(uip6.o)
+ .debug_aranges
+                0x0000000000000840       0x20 build/cooja///mtype729.a(uipbuf.o)
+ .debug_aranges
+                0x0000000000000860       0x20 build/cooja///mtype729.a(uiplib.o)
+ .debug_aranges
+                0x0000000000000880       0x20 build/cooja///mtype729.a(rpl-dag.o)
+ .debug_aranges
+                0x00000000000008a0       0x20 build/cooja///mtype729.a(rpl-icmp6.o)
+ .debug_aranges
+                0x00000000000008c0       0x20 build/cooja///mtype729.a(rpl-mrhof.o)
+ .debug_aranges
+                0x00000000000008e0       0x20 build/cooja///mtype729.a(rpl-nbr-policy.)
+ .debug_aranges
+                0x0000000000000900       0x20 build/cooja///mtype729.a(rpl-neighbor.o)
+ .debug_aranges
+                0x0000000000000920       0x20 build/cooja///mtype729.a(rpl-timers.o)
+ .debug_aranges
+                0x0000000000000940       0x20 build/cooja///mtype729.a(rpl.o)
+ .debug_aranges
+                0x0000000000000960       0x20 build/cooja///mtype729.a(watchdog.o)
+ .debug_aranges
+                0x0000000000000980       0x20 build/cooja///mtype729.a(stimer.o)
+ .debug_aranges
+                0x00000000000009a0       0x20 build/cooja///mtype729.a(ringbufindex.o)
+ .debug_aranges
+                0x00000000000009c0       0x20 build/cooja///mtype729.a(link-stats.o)
+ .debug_aranges
+                0x00000000000009e0       0x20 build/cooja///mtype729.a(mac-sequence.o)
+ .debug_aranges
+                0x0000000000000a00       0x20 build/cooja///mtype729.a(mac.o)
+ .debug_aranges
+                0x0000000000000a20       0x20 build/cooja///mtype729.a(framer-802154.o)
+ .debug_aranges
+                0x0000000000000a40       0x20 build/cooja///mtype729.a(tsch-packet.o)
+ .debug_aranges
+                0x0000000000000a60       0x20 build/cooja///mtype729.a(tsch-rpl.o)
+ .debug_aranges
+                0x0000000000000a80       0x18 build/cooja///mtype729.a(tsch-timeslot-t)
+ .debug_aranges
+                0x0000000000000a98       0x20 build/cooja///mtype729.a(uip-nd6.o)
+ .debug_aranges
+                0x0000000000000ab8       0x20 build/cooja///mtype729.a(rpl-dag-root.o)
+ .debug_aranges
+                0x0000000000000ad8       0x20 build/cooja///mtype729.a(rpl-ext-header.)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x2be68
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0xc7a node.o
+ .debug_info    0x0000000000000c7a     0x3248 build/cooja///mtype729.o
+ .debug_info    0x0000000000003ec2     0x152c build/cooja///obj/sf-plugtest.o
+ .debug_info    0x00000000000053ee      0x15a build/cooja///mtype729.a(simEnvChange.o)
+ .debug_info    0x0000000000005548      0x1af build/cooja///mtype729.a(cooja_mt.o)
+ .debug_info    0x00000000000056f7      0x20b build/cooja///mtype729.a(cooja_mtarch.o)
+ .debug_info    0x0000000000005902      0x14a build/cooja///mtype729.a(rtimer-arch.o)
+ .debug_info    0x0000000000005a4c      0x1f3 build/cooja///mtype729.a(beep.o)
+ .debug_info    0x0000000000005c3f      0x257 build/cooja///mtype729.a(button-sensor.o)
+ .debug_info    0x0000000000005e96      0x14f build/cooja///mtype729.a(leds-arch.o)
+ .debug_info    0x0000000000005fe5      0x10a build/cooja///mtype729.a(moteid.o)
+ .debug_info    0x00000000000060ef      0x216 build/cooja///mtype729.a(pir-sensor.o)
+ .debug_info    0x0000000000006305      0x21e build/cooja///mtype729.a(rs232.o)
+ .debug_info    0x0000000000006523      0x216 build/cooja///mtype729.a(vib-sensor.o)
+ .debug_info    0x0000000000006739      0x152 build/cooja///mtype729.a(clock.o)
+ .debug_info    0x000000000000688b      0x2bb build/cooja///mtype729.a(cooja-log.o)
+ .debug_info    0x0000000000006b46      0x3cf build/cooja///mtype729.a(cfs-cooja.o)
+ .debug_info    0x0000000000006f15      0xad7 build/cooja///mtype729.a(cooja-radio.o)
+ .debug_info    0x00000000000079ec      0x1d5 build/cooja///mtype729.a(eeprom.o)
+ .debug_info    0x0000000000007bc1       0xb3 build/cooja///mtype729.a(random.o)
+ .debug_info    0x0000000000007c74      0x36d build/cooja///mtype729.a(sensors.o)
+ .debug_info    0x0000000000007fe1      0x20c build/cooja///mtype729.a(serial-shell.o)
+ .debug_info    0x00000000000081ed     0x283c build/cooja///mtype729.a(shell-commands.)
+ .debug_info    0x000000000000aa29      0x44c build/cooja///mtype729.a(shell.o)
+ .debug_info    0x000000000000ae75      0x3a3 build/cooja///mtype729.a(sixp-nbr.o)
+ .debug_info    0x000000000000b218     0x1094 build/cooja///mtype729.a(sixp-pkt.o)
+ .debug_info    0x000000000000c2ac      0xa3e build/cooja///mtype729.a(sixp-trans.o)
+ .debug_info    0x000000000000ccea      0x67b build/cooja///mtype729.a(sixp.o)
+ .debug_info    0x000000000000d365      0xa1f build/cooja///mtype729.a(sixtop.o)
+ .debug_info    0x000000000000dd84      0xefb build/cooja///mtype729.a(contiki-main.o)
+ .debug_info    0x000000000000ec7f      0x1a5 build/cooja///mtype729.a(autostart.o)
+ .debug_info    0x000000000000ee24      0x46c build/cooja///mtype729.a(ctimer.o)
+ .debug_info    0x000000000000f290       0xb5 build/cooja///mtype729.a(energest.o)
+ .debug_info    0x000000000000f345      0x49c build/cooja///mtype729.a(etimer.o)
+ .debug_info    0x000000000000f7e1      0x472 build/cooja///mtype729.a(log.o)
+ .debug_info    0x000000000000fc53       0xfb build/cooja///mtype729.a(node-id.o)
+ .debug_info    0x000000000000fd4e      0x4ab build/cooja///mtype729.a(process.o)
+ .debug_info    0x00000000000101f9      0x1b6 build/cooja///mtype729.a(rtimer.o)
+ .debug_info    0x00000000000103af      0x173 build/cooja///mtype729.a(timer.o)
+ .debug_info    0x0000000000010522      0x2de build/cooja///mtype729.a(serial-line.o)
+ .debug_info    0x0000000000010800       0xb3 build/cooja///mtype729.a(assert.o)
+ .debug_info    0x00000000000108b3      0x38b build/cooja///mtype729.a(list.o)
+ .debug_info    0x0000000000010c3e      0x1d7 build/cooja///mtype729.a(memb.o)
+ .debug_info    0x0000000000010e15      0x1b1 build/cooja///mtype729.a(ringbuf.o)
+ .debug_info    0x0000000000010fc6      0x18b build/cooja///mtype729.a(linkaddr.o)
+ .debug_info    0x0000000000011151      0x950 build/cooja///mtype729.a(nbr-table.o)
+ .debug_info    0x0000000000011aa1      0x552 build/cooja///mtype729.a(netstack.o)
+ .debug_info    0x0000000000011ff3      0x541 build/cooja///mtype729.a(packetbuf.o)
+ .debug_info    0x0000000000012534      0x55e build/cooja///mtype729.a(queuebuf.o)
+ .debug_info    0x0000000000012a92      0x738 build/cooja///mtype729.a(frame802154.o)
+ .debug_info    0x00000000000131ca      0xaa0 build/cooja///mtype729.a(frame802154e-ie)
+ .debug_info    0x0000000000013c6a      0x820 build/cooja///mtype729.a(tsch-adaptive-t)
+ .debug_info    0x000000000001448a      0x69d build/cooja///mtype729.a(tsch-log.o)
+ .debug_info    0x0000000000014b27      0xa8a build/cooja///mtype729.a(tsch-queue.o)
+ .debug_info    0x00000000000155b1      0xa79 build/cooja///mtype729.a(tsch-schedule.o)
+ .debug_info    0x000000000001602a     0x1a7c build/cooja///mtype729.a(tsch-slot-opera)
+ .debug_info    0x0000000000017aa6     0x18e3 build/cooja///mtype729.a(tsch.o)
+ .debug_info    0x0000000000019389     0x12cf build/cooja///mtype729.a(sicslowpan.o)
+ .debug_info    0x000000000001a658      0xefa build/cooja///mtype729.a(tcpip.o)
+ .debug_info    0x000000000001b552      0xb64 build/cooja///mtype729.a(uip-ds6-nbr.o)
+ .debug_info    0x000000000001c0b6      0x86e build/cooja///mtype729.a(uip-ds6-route.o)
+ .debug_info    0x000000000001c924      0xa85 build/cooja///mtype729.a(uip-ds6.o)
+ .debug_info    0x000000000001d3a9      0xd13 build/cooja///mtype729.a(uip-icmp6.o)
+ .debug_info    0x000000000001e0bc      0x46b build/cooja///mtype729.a(uip-packetqueue)
+ .debug_info    0x000000000001e527      0xaf6 build/cooja///mtype729.a(uip-sr.o)
+ .debug_info    0x000000000001f01d     0x1138 build/cooja///mtype729.a(uip6.o)
+ .debug_info    0x0000000000020155      0x571 build/cooja///mtype729.a(uipbuf.o)
+ .debug_info    0x00000000000206c6      0x30b build/cooja///mtype729.a(uiplib.o)
+ .debug_info    0x00000000000209d1      0xfd7 build/cooja///mtype729.a(rpl-dag.o)
+ .debug_info    0x00000000000219a8     0x1044 build/cooja///mtype729.a(rpl-icmp6.o)
+ .debug_info    0x00000000000229ec      0x9ad build/cooja///mtype729.a(rpl-mrhof.o)
+ .debug_info    0x0000000000023399      0xbf1 build/cooja///mtype729.a(rpl-nbr-policy.)
+ .debug_info    0x0000000000023f8a      0xe52 build/cooja///mtype729.a(rpl-neighbor.o)
+ .debug_info    0x0000000000024ddc      0xc71 build/cooja///mtype729.a(rpl-timers.o)
+ .debug_info    0x0000000000025a4d     0x1082 build/cooja///mtype729.a(rpl.o)
+ .debug_info    0x0000000000026acf       0xda build/cooja///mtype729.a(watchdog.o)
+ .debug_info    0x0000000000026ba9      0x180 build/cooja///mtype729.a(stimer.o)
+ .debug_info    0x0000000000026d29      0x231 build/cooja///mtype729.a(ringbufindex.o)
+ .debug_info    0x0000000000026f5a      0x669 build/cooja///mtype729.a(link-stats.o)
+ .debug_info    0x00000000000275c3      0x201 build/cooja///mtype729.a(mac-sequence.o)
+ .debug_info    0x00000000000277c4       0xec build/cooja///mtype729.a(mac.o)
+ .debug_info    0x00000000000278b0      0x50e build/cooja///mtype729.a(framer-802154.o)
+ .debug_info    0x0000000000027dbe      0xb65 build/cooja///mtype729.a(tsch-packet.o)
+ .debug_info    0x0000000000028923      0xce1 build/cooja///mtype729.a(tsch-rpl.o)
+ .debug_info    0x0000000000029604      0x109 build/cooja///mtype729.a(tsch-timeslot-t)
+ .debug_info    0x000000000002970d      0x7f1 build/cooja///mtype729.a(uip-nd6.o)
+ .debug_info    0x0000000000029efe      0xb08 build/cooja///mtype729.a(rpl-dag-root.o)
+ .debug_info    0x000000000002aa06     0x1462 build/cooja///mtype729.a(rpl-ext-header.)
+
+.debug_abbrev   0x0000000000000000     0x9421
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x1f5 node.o
+ .debug_abbrev  0x00000000000001f5      0x292 build/cooja///mtype729.o
+ .debug_abbrev  0x0000000000000487      0x23d build/cooja///obj/sf-plugtest.o
+ .debug_abbrev  0x00000000000006c4       0xc3 build/cooja///mtype729.a(simEnvChange.o)
+ .debug_abbrev  0x0000000000000787       0xe6 build/cooja///mtype729.a(cooja_mt.o)
+ .debug_abbrev  0x000000000000086d      0x11e build/cooja///mtype729.a(cooja_mtarch.o)
+ .debug_abbrev  0x000000000000098b       0xbd build/cooja///mtype729.a(rtimer-arch.o)
+ .debug_abbrev  0x0000000000000a48       0xe3 build/cooja///mtype729.a(beep.o)
+ .debug_abbrev  0x0000000000000b2b      0x11c build/cooja///mtype729.a(button-sensor.o)
+ .debug_abbrev  0x0000000000000c47       0xee build/cooja///mtype729.a(leds-arch.o)
+ .debug_abbrev  0x0000000000000d35       0x9c build/cooja///mtype729.a(moteid.o)
+ .debug_abbrev  0x0000000000000dd1       0xe6 build/cooja///mtype729.a(pir-sensor.o)
+ .debug_abbrev  0x0000000000000eb7      0x14a build/cooja///mtype729.a(rs232.o)
+ .debug_abbrev  0x0000000000001001       0xe6 build/cooja///mtype729.a(vib-sensor.o)
+ .debug_abbrev  0x00000000000010e7       0xee build/cooja///mtype729.a(clock.o)
+ .debug_abbrev  0x00000000000011d5      0x141 build/cooja///mtype729.a(cooja-log.o)
+ .debug_abbrev  0x0000000000001316      0x139 build/cooja///mtype729.a(cfs-cooja.o)
+ .debug_abbrev  0x000000000000144f      0x2eb build/cooja///mtype729.a(cooja-radio.o)
+ .debug_abbrev  0x000000000000173a       0xf5 build/cooja///mtype729.a(eeprom.o)
+ .debug_abbrev  0x000000000000182f       0x6d build/cooja///mtype729.a(random.o)
+ .debug_abbrev  0x000000000000189c      0x1c2 build/cooja///mtype729.a(sensors.o)
+ .debug_abbrev  0x0000000000001a5e      0x14d build/cooja///mtype729.a(serial-shell.o)
+ .debug_abbrev  0x0000000000001bab      0x31e build/cooja///mtype729.a(shell-commands.)
+ .debug_abbrev  0x0000000000001ec9      0x1a0 build/cooja///mtype729.a(shell.o)
+ .debug_abbrev  0x0000000000002069      0x14e build/cooja///mtype729.a(sixp-nbr.o)
+ .debug_abbrev  0x00000000000021b7      0x15d build/cooja///mtype729.a(sixp-pkt.o)
+ .debug_abbrev  0x0000000000002314      0x24b build/cooja///mtype729.a(sixp-trans.o)
+ .debug_abbrev  0x000000000000255f      0x1e2 build/cooja///mtype729.a(sixp.o)
+ .debug_abbrev  0x0000000000002741      0x1df build/cooja///mtype729.a(sixtop.o)
+ .debug_abbrev  0x0000000000002920      0x1e2 build/cooja///mtype729.a(contiki-main.o)
+ .debug_abbrev  0x0000000000002b02       0xfb build/cooja///mtype729.a(autostart.o)
+ .debug_abbrev  0x0000000000002bfd      0x1a1 build/cooja///mtype729.a(ctimer.o)
+ .debug_abbrev  0x0000000000002d9e       0x69 build/cooja///mtype729.a(energest.o)
+ .debug_abbrev  0x0000000000002e07      0x1f1 build/cooja///mtype729.a(etimer.o)
+ .debug_abbrev  0x0000000000002ff8      0x159 build/cooja///mtype729.a(log.o)
+ .debug_abbrev  0x0000000000003151       0x9d build/cooja///mtype729.a(node-id.o)
+ .debug_abbrev  0x00000000000031ee      0x244 build/cooja///mtype729.a(process.o)
+ .debug_abbrev  0x0000000000003432      0x124 build/cooja///mtype729.a(rtimer.o)
+ .debug_abbrev  0x0000000000003556       0xdb build/cooja///mtype729.a(timer.o)
+ .debug_abbrev  0x0000000000003631      0x190 build/cooja///mtype729.a(serial-line.o)
+ .debug_abbrev  0x00000000000037c1       0x61 build/cooja///mtype729.a(assert.o)
+ .debug_abbrev  0x0000000000003822      0x136 build/cooja///mtype729.a(list.o)
+ .debug_abbrev  0x0000000000003958       0xe4 build/cooja///mtype729.a(memb.o)
+ .debug_abbrev  0x0000000000003a3c       0xdb build/cooja///mtype729.a(ringbuf.o)
+ .debug_abbrev  0x0000000000003b17       0xd8 build/cooja///mtype729.a(linkaddr.o)
+ .debug_abbrev  0x0000000000003bef      0x1f8 build/cooja///mtype729.a(nbr-table.o)
+ .debug_abbrev  0x0000000000003de7      0x1b5 build/cooja///mtype729.a(netstack.o)
+ .debug_abbrev  0x0000000000003f9c      0x1d8 build/cooja///mtype729.a(packetbuf.o)
+ .debug_abbrev  0x0000000000004174      0x1a4 build/cooja///mtype729.a(queuebuf.o)
+ .debug_abbrev  0x0000000000004318      0x1fb build/cooja///mtype729.a(frame802154.o)
+ .debug_abbrev  0x0000000000004513      0x1ae build/cooja///mtype729.a(frame802154e-ie)
+ .debug_abbrev  0x00000000000046c1      0x1f7 build/cooja///mtype729.a(tsch-adaptive-t)
+ .debug_abbrev  0x00000000000048b8      0x1c3 build/cooja///mtype729.a(tsch-log.o)
+ .debug_abbrev  0x0000000000004a7b      0x281 build/cooja///mtype729.a(tsch-queue.o)
+ .debug_abbrev  0x0000000000004cfc      0x219 build/cooja///mtype729.a(tsch-schedule.o)
+ .debug_abbrev  0x0000000000004f15      0x307 build/cooja///mtype729.a(tsch-slot-opera)
+ .debug_abbrev  0x000000000000521c      0x355 build/cooja///mtype729.a(tsch.o)
+ .debug_abbrev  0x0000000000005571      0x2bb build/cooja///mtype729.a(sicslowpan.o)
+ .debug_abbrev  0x000000000000582c      0x35b build/cooja///mtype729.a(tcpip.o)
+ .debug_abbrev  0x0000000000005b87      0x277 build/cooja///mtype729.a(uip-ds6-nbr.o)
+ .debug_abbrev  0x0000000000005dfe      0x289 build/cooja///mtype729.a(uip-ds6-route.o)
+ .debug_abbrev  0x0000000000006087      0x23e build/cooja///mtype729.a(uip-ds6.o)
+ .debug_abbrev  0x00000000000062c5      0x273 build/cooja///mtype729.a(uip-icmp6.o)
+ .debug_abbrev  0x0000000000006538      0x1ad build/cooja///mtype729.a(uip-packetqueue)
+ .debug_abbrev  0x00000000000066e5      0x230 build/cooja///mtype729.a(uip-sr.o)
+ .debug_abbrev  0x0000000000006915      0x2bd build/cooja///mtype729.a(uip6.o)
+ .debug_abbrev  0x0000000000006bd2      0x171 build/cooja///mtype729.a(uipbuf.o)
+ .debug_abbrev  0x0000000000006d43      0x11d build/cooja///mtype729.a(uiplib.o)
+ .debug_abbrev  0x0000000000006e60      0x348 build/cooja///mtype729.a(rpl-dag.o)
+ .debug_abbrev  0x00000000000071a8      0x2f6 build/cooja///mtype729.a(rpl-icmp6.o)
+ .debug_abbrev  0x000000000000749e      0x1f9 build/cooja///mtype729.a(rpl-mrhof.o)
+ .debug_abbrev  0x0000000000007697      0x252 build/cooja///mtype729.a(rpl-nbr-policy.)
+ .debug_abbrev  0x00000000000078e9      0x31b build/cooja///mtype729.a(rpl-neighbor.o)
+ .debug_abbrev  0x0000000000007c04      0x295 build/cooja///mtype729.a(rpl-timers.o)
+ .debug_abbrev  0x0000000000007e99      0x2c7 build/cooja///mtype729.a(rpl.o)
+ .debug_abbrev  0x0000000000008160       0x6b build/cooja///mtype729.a(watchdog.o)
+ .debug_abbrev  0x00000000000081cb       0xbf build/cooja///mtype729.a(stimer.o)
+ .debug_abbrev  0x000000000000828a       0xe2 build/cooja///mtype729.a(ringbufindex.o)
+ .debug_abbrev  0x000000000000836c      0x229 build/cooja///mtype729.a(link-stats.o)
+ .debug_abbrev  0x0000000000008595       0xeb build/cooja///mtype729.a(mac-sequence.o)
+ .debug_abbrev  0x0000000000008680       0x8d build/cooja///mtype729.a(mac.o)
+ .debug_abbrev  0x000000000000870d      0x16a build/cooja///mtype729.a(framer-802154.o)
+ .debug_abbrev  0x0000000000008877      0x218 build/cooja///mtype729.a(tsch-packet.o)
+ .debug_abbrev  0x0000000000008a8f      0x20d build/cooja///mtype729.a(tsch-rpl.o)
+ .debug_abbrev  0x0000000000008c9c       0x75 build/cooja///mtype729.a(tsch-timeslot-t)
+ .debug_abbrev  0x0000000000008d11      0x20b build/cooja///mtype729.a(uip-nd6.o)
+ .debug_abbrev  0x0000000000008f1c      0x219 build/cooja///mtype729.a(rpl-dag-root.o)
+ .debug_abbrev  0x0000000000009135      0x2ec build/cooja///mtype729.a(rpl-ext-header.)
+
+.debug_line     0x0000000000000000     0xc920
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x28f node.o
+ .debug_line    0x000000000000028f      0x2dd build/cooja///mtype729.o
+ .debug_line    0x000000000000056c      0x8de build/cooja///obj/sf-plugtest.o
+ .debug_line    0x0000000000000e4a       0xec build/cooja///mtype729.a(simEnvChange.o)
+ .debug_line    0x0000000000000f36       0xca build/cooja///mtype729.a(cooja_mt.o)
+ .debug_line    0x0000000000001000       0xc5 build/cooja///mtype729.a(cooja_mtarch.o)
+ .debug_line    0x00000000000010c5       0xad build/cooja///mtype729.a(rtimer-arch.o)
+ .debug_line    0x0000000000001172       0xdb build/cooja///mtype729.a(beep.o)
+ .debug_line    0x000000000000124d      0x145 build/cooja///mtype729.a(button-sensor.o)
+ .debug_line    0x0000000000001392       0xd1 build/cooja///mtype729.a(leds-arch.o)
+ .debug_line    0x0000000000001463       0x94 build/cooja///mtype729.a(moteid.o)
+ .debug_line    0x00000000000014f7       0xce build/cooja///mtype729.a(pir-sensor.o)
+ .debug_line    0x00000000000015c5       0xd1 build/cooja///mtype729.a(rs232.o)
+ .debug_line    0x0000000000001696       0xce build/cooja///mtype729.a(vib-sensor.o)
+ .debug_line    0x0000000000001764       0xcc build/cooja///mtype729.a(clock.o)
+ .debug_line    0x0000000000001830      0x127 build/cooja///mtype729.a(cooja-log.o)
+ .debug_line    0x0000000000001957      0x11b build/cooja///mtype729.a(cfs-cooja.o)
+ .debug_line    0x0000000000001a72      0x28c build/cooja///mtype729.a(cooja-radio.o)
+ .debug_line    0x0000000000001cfe       0xc3 build/cooja///mtype729.a(eeprom.o)
+ .debug_line    0x0000000000001dc1       0x4d build/cooja///mtype729.a(random.o)
+ .debug_line    0x0000000000001e0e      0x10e build/cooja///mtype729.a(sensors.o)
+ .debug_line    0x0000000000001f1c       0xe1 build/cooja///mtype729.a(serial-shell.o)
+ .debug_line    0x0000000000001ffd      0x791 build/cooja///mtype729.a(shell-commands.)
+ .debug_line    0x000000000000278e      0x158 build/cooja///mtype729.a(shell.o)
+ .debug_line    0x00000000000028e6      0x192 build/cooja///mtype729.a(sixp-nbr.o)
+ .debug_line    0x0000000000002a78      0x7e9 build/cooja///mtype729.a(sixp-pkt.o)
+ .debug_line    0x0000000000003261      0x39e build/cooja///mtype729.a(sixp-trans.o)
+ .debug_line    0x00000000000035ff      0x4bb build/cooja///mtype729.a(sixp.o)
+ .debug_line    0x0000000000003aba      0x303 build/cooja///mtype729.a(sixtop.o)
+ .debug_line    0x0000000000003dbd      0x3ae build/cooja///mtype729.a(contiki-main.o)
+ .debug_line    0x000000000000416b       0x9a build/cooja///mtype729.a(autostart.o)
+ .debug_line    0x0000000000004205      0x16b build/cooja///mtype729.a(ctimer.o)
+ .debug_line    0x0000000000004370       0x6a build/cooja///mtype729.a(energest.o)
+ .debug_line    0x00000000000043da      0x180 build/cooja///mtype729.a(etimer.o)
+ .debug_line    0x000000000000455a      0x163 build/cooja///mtype729.a(log.o)
+ .debug_line    0x00000000000046bd       0x84 build/cooja///mtype729.a(node-id.o)
+ .debug_line    0x0000000000004741      0x159 build/cooja///mtype729.a(process.o)
+ .debug_line    0x000000000000489a       0x89 build/cooja///mtype729.a(rtimer.o)
+ .debug_line    0x0000000000004923       0xa0 build/cooja///mtype729.a(timer.o)
+ .debug_line    0x00000000000049c3      0x10c build/cooja///mtype729.a(serial-line.o)
+ .debug_line    0x0000000000004acf       0x4b build/cooja///mtype729.a(assert.o)
+ .debug_line    0x0000000000004b1a      0x107 build/cooja///mtype729.a(list.o)
+ .debug_line    0x0000000000004c21       0xb3 build/cooja///mtype729.a(memb.o)
+ .debug_line    0x0000000000004cd4       0x9a build/cooja///mtype729.a(ringbuf.o)
+ .debug_line    0x0000000000004d6e       0x7d build/cooja///mtype729.a(linkaddr.o)
+ .debug_line    0x0000000000004deb      0x237 build/cooja///mtype729.a(nbr-table.o)
+ .debug_line    0x0000000000005022      0x12b build/cooja///mtype729.a(netstack.o)
+ .debug_line    0x000000000000514d      0x10e build/cooja///mtype729.a(packetbuf.o)
+ .debug_line    0x000000000000525b       0xf1 build/cooja///mtype729.a(queuebuf.o)
+ .debug_line    0x000000000000534c      0x2a2 build/cooja///mtype729.a(frame802154.o)
+ .debug_line    0x00000000000055ee      0x410 build/cooja///mtype729.a(frame802154e-ie)
+ .debug_line    0x00000000000059fe      0x1d2 build/cooja///mtype729.a(tsch-adaptive-t)
+ .debug_line    0x0000000000005bd0      0x24c build/cooja///mtype729.a(tsch-log.o)
+ .debug_line    0x0000000000005e1c      0x31c build/cooja///mtype729.a(tsch-queue.o)
+ .debug_line    0x0000000000006138      0x375 build/cooja///mtype729.a(tsch-schedule.o)
+ .debug_line    0x00000000000064ad      0x6a4 build/cooja///mtype729.a(tsch-slot-opera)
+ .debug_line    0x0000000000006b51      0x885 build/cooja///mtype729.a(tsch.o)
+ .debug_line    0x00000000000073d6      0x7ce build/cooja///mtype729.a(sicslowpan.o)
+ .debug_line    0x0000000000007ba4      0x37e build/cooja///mtype729.a(tcpip.o)
+ .debug_line    0x0000000000007f22      0x2b8 build/cooja///mtype729.a(uip-ds6-nbr.o)
+ .debug_line    0x00000000000081da      0x23e build/cooja///mtype729.a(uip-ds6-route.o)
+ .debug_line    0x0000000000008418      0x319 build/cooja///mtype729.a(uip-ds6.o)
+ .debug_line    0x0000000000008731      0x2e2 build/cooja///mtype729.a(uip-icmp6.o)
+ .debug_line    0x0000000000008a13      0x16b build/cooja///mtype729.a(uip-packetqueue)
+ .debug_line    0x0000000000008b7e      0x303 build/cooja///mtype729.a(uip-sr.o)
+ .debug_line    0x0000000000008e81      0x5da build/cooja///mtype729.a(uip6.o)
+ .debug_line    0x000000000000945b      0x138 build/cooja///mtype729.a(uipbuf.o)
+ .debug_line    0x0000000000009593      0x1a1 build/cooja///mtype729.a(uiplib.o)
+ .debug_line    0x0000000000009734      0x580 build/cooja///mtype729.a(rpl-dag.o)
+ .debug_line    0x0000000000009cb4      0x683 build/cooja///mtype729.a(rpl-icmp6.o)
+ .debug_line    0x000000000000a337      0x26f build/cooja///mtype729.a(rpl-mrhof.o)
+ .debug_line    0x000000000000a5a6      0x1f0 build/cooja///mtype729.a(rpl-nbr-policy.)
+ .debug_line    0x000000000000a796      0x3e9 build/cooja///mtype729.a(rpl-neighbor.o)
+ .debug_line    0x000000000000ab7f      0x35a build/cooja///mtype729.a(rpl-timers.o)
+ .debug_line    0x000000000000aed9      0x34d build/cooja///mtype729.a(rpl.o)
+ .debug_line    0x000000000000b226       0x9b build/cooja///mtype729.a(watchdog.o)
+ .debug_line    0x000000000000b2c1       0x75 build/cooja///mtype729.a(stimer.o)
+ .debug_line    0x000000000000b336       0xb2 build/cooja///mtype729.a(ringbufindex.o)
+ .debug_line    0x000000000000b3e8      0x1fe build/cooja///mtype729.a(link-stats.o)
+ .debug_line    0x000000000000b5e6      0x10f build/cooja///mtype729.a(mac-sequence.o)
+ .debug_line    0x000000000000b6f5       0x56 build/cooja///mtype729.a(mac.o)
+ .debug_line    0x000000000000b74b      0x1df build/cooja///mtype729.a(framer-802154.o)
+ .debug_line    0x000000000000b92a      0x2ae build/cooja///mtype729.a(tsch-packet.o)
+ .debug_line    0x000000000000bbd8      0x254 build/cooja///mtype729.a(tsch-rpl.o)
+ .debug_line    0x000000000000be2c       0x79 build/cooja///mtype729.a(tsch-timeslot-t)
+ .debug_line    0x000000000000bea5      0x2a8 build/cooja///mtype729.a(uip-nd6.o)
+ .debug_line    0x000000000000c14d      0x24c build/cooja///mtype729.a(rpl-dag-root.o)
+ .debug_line    0x000000000000c399      0x587 build/cooja///mtype729.a(rpl-ext-header.)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0xa74b
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x8d4 node.o
+                                        0xb35 (size before relaxing)
+ .debug_str     0x00000000000008d4     0x1763 build/cooja///mtype729.o
+                                       0x1952 (size before relaxing)
+ .debug_str     0x0000000000002037      0x528 build/cooja///obj/sf-plugtest.o
+                                        0xb59 (size before relaxing)
+ .debug_str     0x000000000000255f       0x30 build/cooja///mtype729.a(simEnvChange.o)
+                                        0x1fc (size before relaxing)
+ .debug_str     0x000000000000258f       0x58 build/cooja///mtype729.a(cooja_mt.o)
+                                        0x1fd (size before relaxing)
+ .debug_str     0x00000000000025e7       0x97 build/cooja///mtype729.a(cooja_mtarch.o)
+                                        0x1f6 (size before relaxing)
+ .debug_str     0x000000000000267e       0xf5 build/cooja///mtype729.a(rtimer-arch.o)
+                                        0x220 (size before relaxing)
+ .debug_str     0x0000000000002773       0xc6 build/cooja///mtype729.a(beep.o)
+                                        0x23d (size before relaxing)
+ .debug_str     0x0000000000002839       0x72 build/cooja///mtype729.a(button-sensor.o)
+                                        0x26d (size before relaxing)
+ .debug_str     0x00000000000028ab       0x7c build/cooja///mtype729.a(leds-arch.o)
+                                        0x222 (size before relaxing)
+ .debug_str     0x0000000000002927       0x49 build/cooja///mtype729.a(moteid.o)
+                                        0x1f3 (size before relaxing)
+ .debug_str     0x0000000000002970       0x57 build/cooja///mtype729.a(pir-sensor.o)
+                                        0x22a (size before relaxing)
+ .debug_str     0x00000000000029c7       0xc3 build/cooja///mtype729.a(rs232.o)
+                                        0x287 (size before relaxing)
+ .debug_str     0x0000000000002a8a       0x57 build/cooja///mtype729.a(vib-sensor.o)
+                                        0x22a (size before relaxing)
+ .debug_str     0x0000000000002ae1       0x73 build/cooja///mtype729.a(clock.o)
+                                        0x21f (size before relaxing)
+ .debug_str     0x0000000000002b54       0xcd build/cooja///mtype729.a(cooja-log.o)
+                                        0x2b3 (size before relaxing)
+ .debug_str     0x0000000000002c21      0x10e build/cooja///mtype729.a(cfs-cooja.o)
+                                        0x2c9 (size before relaxing)
+ .debug_str     0x0000000000002d2f      0x72c build/cooja///mtype729.a(cooja-radio.o)
+                                        0xa35 (size before relaxing)
+ .debug_str     0x000000000000345b       0x9b build/cooja///mtype729.a(eeprom.o)
+                                        0x249 (size before relaxing)
+ .debug_str     0x00000000000034f6       0x36 build/cooja///mtype729.a(random.o)
+                                        0x161 (size before relaxing)
+ .debug_str     0x000000000000352c       0x9c build/cooja///mtype729.a(sensors.o)
+                                        0x291 (size before relaxing)
+ .debug_str     0x00000000000035c8       0x9d build/cooja///mtype729.a(serial-shell.o)
+                                        0x248 (size before relaxing)
+ .debug_str     0x0000000000003665      0x722 build/cooja///mtype729.a(shell-commands.)
+                                       0x124f (size before relaxing)
+ .debug_str     0x0000000000003d87       0x88 build/cooja///mtype729.a(shell.o)
+                                        0x26e (size before relaxing)
+ .debug_str     0x0000000000003e0f      0x217 build/cooja///mtype729.a(sixp-nbr.o)
+                                        0x3f9 (size before relaxing)
+ .debug_str     0x0000000000004026      0x3ca build/cooja///mtype729.a(sixp-pkt.o)
+                                        0x85b (size before relaxing)
+ .debug_str     0x00000000000043f0      0x36c build/cooja///mtype729.a(sixp-trans.o)
+                                        0x8b9 (size before relaxing)
+ .debug_str     0x000000000000475c       0xc7 build/cooja///mtype729.a(sixp.o)
+                                        0x6e3 (size before relaxing)
+ .debug_str     0x0000000000004823      0x3ea build/cooja///mtype729.a(sixtop.o)
+                                        0xbd4 (size before relaxing)
+ .debug_str     0x0000000000004c0d      0x2c4 build/cooja///mtype729.a(contiki-main.o)
+                                        0xd10 (size before relaxing)
+ .debug_str     0x0000000000004ed1       0x3b build/cooja///mtype729.a(autostart.o)
+                                        0x1b4 (size before relaxing)
+ .debug_str     0x0000000000004f0c       0xc6 build/cooja///mtype729.a(ctimer.o)
+                                        0x2b5 (size before relaxing)
+ .debug_str     0x0000000000004fd2       0x50 build/cooja///mtype729.a(energest.o)
+                                        0x17b (size before relaxing)
+ .debug_str     0x0000000000005022      0x153 build/cooja///mtype729.a(etimer.o)
+                                        0x328 (size before relaxing)
+ .debug_str     0x0000000000005175      0x16c build/cooja///mtype729.a(log.o)
+                                        0x35d (size before relaxing)
+ .debug_str     0x00000000000052e1       0x27 build/cooja///mtype729.a(node-id.o)
+                                        0x181 (size before relaxing)
+ .debug_str     0x0000000000005308      0x157 build/cooja///mtype729.a(process.o)
+                                        0x2f3 (size before relaxing)
+ .debug_str     0x000000000000545f       0xa5 build/cooja///mtype729.a(rtimer.o)
+                                        0x1ff (size before relaxing)
+ .debug_str     0x0000000000005504       0x18 build/cooja///mtype729.a(timer.o)
+                                        0x1a3 (size before relaxing)
+ .debug_str     0x000000000000551c       0x83 build/cooja///mtype729.a(serial-line.o)
+                                        0x27c (size before relaxing)
+ .debug_str     0x000000000000559f       0x29 build/cooja///mtype729.a(assert.o)
+                                        0x159 (size before relaxing)
+ .debug_str     0x00000000000055c8       0xb7 build/cooja///mtype729.a(list.o)
+                                        0x203 (size before relaxing)
+ .debug_str     0x000000000000567f       0x5d build/cooja///mtype729.a(memb.o)
+                                        0x198 (size before relaxing)
+ .debug_str     0x00000000000056dc       0x5d build/cooja///mtype729.a(ringbuf.o)
+                                        0x1b6 (size before relaxing)
+ .debug_str     0x0000000000005739       0x53 build/cooja///mtype729.a(linkaddr.o)
+                                        0x1be (size before relaxing)
+ .debug_str     0x000000000000578c      0x283 build/cooja///mtype729.a(nbr-table.o)
+                                        0x59a (size before relaxing)
+ .debug_str     0x0000000000005a0f      0x16a build/cooja///mtype729.a(netstack.o)
+                                        0x454 (size before relaxing)
+ .debug_str     0x0000000000005b79      0x1e6 build/cooja///mtype729.a(packetbuf.o)
+                                        0x51d (size before relaxing)
+ .debug_str     0x0000000000005d5f      0x1a0 build/cooja///mtype729.a(queuebuf.o)
+                                        0x4e3 (size before relaxing)
+ .debug_str     0x0000000000005eff      0x1f5 build/cooja///mtype729.a(frame802154.o)
+                                        0x576 (size before relaxing)
+ .debug_str     0x00000000000060f4      0x647 build/cooja///mtype729.a(frame802154e-ie)
+                                        0xab7 (size before relaxing)
+ .debug_str     0x000000000000673b      0x274 build/cooja///mtype729.a(tsch-adaptive-t)
+                                        0x73d (size before relaxing)
+ .debug_str     0x00000000000069af      0x106 build/cooja///mtype729.a(tsch-log.o)
+                                        0x5ec (size before relaxing)
+ .debug_str     0x0000000000006ab5      0x3a8 build/cooja///mtype729.a(tsch-queue.o)
+                                        0x889 (size before relaxing)
+ .debug_str     0x0000000000006e5d      0x30e build/cooja///mtype729.a(tsch-schedule.o)
+                                        0x81d (size before relaxing)
+ .debug_str     0x000000000000716b      0x61c build/cooja///mtype729.a(tsch-slot-opera)
+                                       0x16a7 (size before relaxing)
+ .debug_str     0x0000000000007787      0x3da build/cooja///mtype729.a(tsch.o)
+                                       0x1509 (size before relaxing)
+ .debug_str     0x0000000000007b61      0x484 build/cooja///mtype729.a(sicslowpan.o)
+                                        0xca9 (size before relaxing)
+ .debug_str     0x0000000000007fe5      0x1f8 build/cooja///mtype729.a(tcpip.o)
+                                        0x9cf (size before relaxing)
+ .debug_str     0x00000000000081dd      0x1ab build/cooja///mtype729.a(uip-ds6-nbr.o)
+                                        0x86c (size before relaxing)
+ .debug_str     0x0000000000008388      0x208 build/cooja///mtype729.a(uip-ds6-route.o)
+                                        0x5cc (size before relaxing)
+ .debug_str     0x0000000000008590      0x2fa build/cooja///mtype729.a(uip-ds6.o)
+                                        0x6a2 (size before relaxing)
+ .debug_str     0x000000000000888a      0x1e3 build/cooja///mtype729.a(uip-icmp6.o)
+                                        0x900 (size before relaxing)
+ .debug_str     0x0000000000008a6d       0xf7 build/cooja///mtype729.a(uip-packetqueue)
+                                        0x33d (size before relaxing)
+ .debug_str     0x0000000000008b64      0x18d build/cooja///mtype729.a(uip-sr.o)
+                                        0x6f7 (size before relaxing)
+ .debug_str     0x0000000000008cf1      0x1db build/cooja///mtype729.a(uip6.o)
+                                        0xa13 (size before relaxing)
+ .debug_str     0x0000000000008ecc      0x1b2 build/cooja///mtype729.a(uipbuf.o)
+                                        0x455 (size before relaxing)
+ .debug_str     0x000000000000907e       0x93 build/cooja///mtype729.a(uiplib.o)
+                                        0x208 (size before relaxing)
+ .debug_str     0x0000000000009111      0x326 build/cooja///mtype729.a(rpl-dag.o)
+                                        0xb36 (size before relaxing)
+ .debug_str     0x0000000000009437      0x164 build/cooja///mtype729.a(rpl-icmp6.o)
+                                        0xc46 (size before relaxing)
+ .debug_str     0x000000000000959b       0xde build/cooja///mtype729.a(rpl-mrhof.o)
+                                        0x6ff (size before relaxing)
+ .debug_str     0x0000000000009679       0xa7 build/cooja///mtype729.a(rpl-nbr-policy.)
+                                        0x998 (size before relaxing)
+ .debug_str     0x0000000000009720      0x283 build/cooja///mtype729.a(rpl-neighbor.o)
+                                        0xa0e (size before relaxing)
+ .debug_str     0x00000000000099a3      0x2ec build/cooja///mtype729.a(rpl-timers.o)
+                                        0x9e1 (size before relaxing)
+ .debug_str     0x0000000000009c8f      0x122 build/cooja///mtype729.a(rpl.o)
+                                        0xb76 (size before relaxing)
+ .debug_str     0x0000000000009db1       0x79 build/cooja///mtype729.a(watchdog.o)
+                                        0x1b7 (size before relaxing)
+ .debug_str     0x0000000000009e2a       0x6f build/cooja///mtype729.a(stimer.o)
+                                        0x1a7 (size before relaxing)
+ .debug_str     0x0000000000009e99       0xcc build/cooja///mtype729.a(ringbufindex.o)
+                                        0x226 (size before relaxing)
+ .debug_str     0x0000000000009f65      0x11a build/cooja///mtype729.a(link-stats.o)
+                                        0x6ad (size before relaxing)
+ .debug_str     0x000000000000a07f       0x69 build/cooja///mtype729.a(mac-sequence.o)
+                                        0x36d (size before relaxing)
+ .debug_str     0x000000000000a0e8       0x31 build/cooja///mtype729.a(mac.o)
+                                        0x17e (size before relaxing)
+ .debug_str     0x000000000000a119       0x82 build/cooja///mtype729.a(framer-802154.o)
+                                        0x5c7 (size before relaxing)
+ .debug_str     0x000000000000a19b      0x153 build/cooja///mtype729.a(tsch-packet.o)
+                                        0xafc (size before relaxing)
+ .debug_str     0x000000000000a2ee       0xe5 build/cooja///mtype729.a(tsch-rpl.o)
+                                        0xb7d (size before relaxing)
+ .debug_str     0x000000000000a3d3       0x30 build/cooja///mtype729.a(tsch-timeslot-t)
+                                        0x292 (size before relaxing)
+ .debug_str     0x000000000000a403       0xe6 build/cooja///mtype729.a(uip-nd6.o)
+                                        0x5ef (size before relaxing)
+ .debug_str     0x000000000000a4e9       0xa4 build/cooja///mtype729.a(rpl-dag-root.o)
+                                        0x828 (size before relaxing)
+ .debug_str     0x000000000000a58d      0x1be build/cooja///mtype729.a(rpl-ext-header.)
+                                        0xf37 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x30
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x30 build/cooja///mtype729.a(tsch-slot-opera)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(build/cooja/mtype729.cooja elf32-i386)

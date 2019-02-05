@@ -1,0 +1,81 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0xb238403f, pid=4766, tid=2998426432
+#
+# JRE version: OpenJDK Runtime Environment (7.0_79-b14) (build 1.7.0_79-b14)
+# Java VM: OpenJDK Client VM (24.79-b02 mixed mode, sharing linux-x86 )
+# Derivative: IcedTea 2.5.6
+# Distribution: Ubuntu 14.04 LTS, package 7u79-2.5.6-0ubuntu1.14.04.1
+# Problematic frame:
+# C  [mtype290.cooja+0x3103f]  handle_probing_timer+0x82
+#
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# If you would like to submit a bug report, please include
+# instructions on how to reproduce the bug and visit:
+#   http://icedtea.classpath.org/bugzilla
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x09a53c00):  JavaThread "Thread-21" [_thread_in_native, id=7463, stack(0xb2b35000,0xb2b86000)]
+
+siginfo:si_signo=SIGSEGV: si_errno=0, si_code=1 (SEGV_MAPERR), si_addr=0x00000000
+
+Registers:
+EAX=0x0004136f, EBX=0xb2394138, ECX=0x00000000, EDX=0x00000000
+ESP=0xb23963b0, EBP=0xb23963d8, ESI=0x00000000, EDI=0x00000000
+EIP=0xb238403f, EFLAGS=0x00010286, CR2=0x00000000
+
+Top of Stack: (sp=0xb23963b0)
+0xb23963b0:   b2389819 b2389814 b2389810 b236b4d9
+0xb23963c0:   b23bfe40 b23bb9a0 b239ed00 00000000
+0xb23963d0:   b2394138 00000000 b2396408 b236a440
+0xb23963e0:   b23bfe40 b23bfeec b23bfef0 00000088
+0xb23963f0:   00000000 01000000 b23bfeec b239412c
+0xb2396400:   b2394024 b239428c b2396438 b236b03d
+0xb2396410:   b2394138 00000088 b23bfef0 00000088
+0xb2396420:   b2368819 0000000a b2396458 00000001 
+
+Instructions: (pc=0xb238403f)
+0xb238401f:   24 04 14 98 38 b2 c7 04 24 19 98 38 b2 e8 11 48
+0xb238402f:   fe ff 83 7d ec 00 74 1a e8 4b 46 fe ff 8b 55 f4
+0xb238403f:   8b 12 29 d0 ba 73 b2 e7 45 f7 e2 89 d6 c1 ee 0e
+0xb238404f:   eb 05 be 00 00 00 00 8b 45 e8 8b 80 cc 00 00 00 
+
+Register to memory mapping:
+
+EAX=0x0004136f is an unknown value
+EBX=0xb2394138: ctimer_process+0xc in /home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype290.cooja at 0xb2353000
+ECX=0x00000000 is an unknown value
+EDX=0x00000000 is an unknown value
+ESP=0xb23963b0: <offset 0x433b0> in /home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype290.cooja at 0xb2353000
+EBP=0xb23963d8: <offset 0x433d8> in /home/user/Desktop/contiki-ng-develop/examples/6tisch/orchestra-test/build/cooja/mtype290.cooja at 0xb2353000
+ESI=0x00000000 is an unknown value
+EDI=0x00000000 is an unknown value
+
+
+Stack: [0xb2b35000,0xb2b86000],  sp=0xb23963b0,  free space=4186500k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [mtype290.cooja+0x3103f]  handle_probing_timer+0x82
+C  [mtype290.cooja+0x17440]  process_thread_ctimer_process+0xe7
+C  [mtype290.cooja+0x1803d]  call_process+0x57
+C  [mtype290.cooja+0x18232]  do_event+0x112
+C  [mtype290.cooja+0x1824f]  process_run+0x1b
+C  [mtype290.cooja+0x14dca]  platform_main_loop+0xb
+C  [mtype290.cooja+0x172c4]  main+0x317
+C  [mtype290.cooja+0x14e2f]  process_run_thread_loop+0x1a
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+J 2642  org.contikios.cooja.corecomm.Lib6.tick()V (0 bytes) @ 0xb4c55f90 [0xb4c55f50+0x40]
+
+[error occurred during error reporting (printing Java stack), id 0xb]
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+=>
